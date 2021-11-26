@@ -9,7 +9,7 @@
   - 최종 추천 : 최종적으로 유사한 top 10 영화를 추천
 
 [한국어 불용어 리스트](https://github.com/nooblette/SentimentAnalysis/blob/main/K_Stopword.txt) : The list of Korean idioms that I use often.  
-[추가 리뷰 데이터 크롤링]
+[추가 리뷰 데이터 크롤링](https://)(*tba)
   
   
 --------------------------------------------------------------------------------
