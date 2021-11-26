@@ -1,4 +1,4 @@
-# Information Retrieval Project
+# Information Retrieval Project  
 ## - Naver Movie Review Sentiment Analysis
 
 ### 정보검색 프로젝트로 진행한 영화 추천 서비스
