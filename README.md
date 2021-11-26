@@ -6,6 +6,7 @@
   
 --------------------------------------------------------------------------------
 *Sources*  
+https://github.com/e9t/nsmc  
 https://www.ranks.nl/stopwords/korean  
 https://github.com/e9t/nsmc/blob/master/raw/10001.json  
 https://hyemin-kim.github.io/2020/08/29/E-Python-TextMining-2/  
