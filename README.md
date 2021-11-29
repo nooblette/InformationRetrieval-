@@ -1,5 +1,5 @@
 # Information Retrieval Project  
-- Naver Movie Review Sentiment Analysis
+# - Naver Movie Review Sentiment Analysis
 
 ### 프로젝트 개요 : 정보검색 프로젝트로 진행한 영화 추천 서비스
 - 프로젝트 설명 : (네이버 영화 리뷰 데이터 기반) 영화 이름을 입력하면 유사한 영화를 추천
