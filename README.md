@@ -1,5 +1,5 @@
 # Information Retrieval Project  
-## - Naver Movie Review Sentiment Analysis
+- Naver Movie Review Sentiment Analysis
 
 ### 프로젝트 개요 : 정보검색 프로젝트로 진행한 영화 추천 서비스
 - 프로젝트 설명 : (네이버 영화 리뷰 데이터 기반) 영화 이름을 입력하면 유사한 영화를 추천
@@ -9,7 +9,6 @@
   - 최종 추천 : 최종적으로 유사한 top 10 영화를 추천
 
 [한국어 불용어 리스트](https://github.com/nooblette/SentimentAnalysis/blob/main/K_Stopword.txt) : The list of Korean idioms that I use often.  
-[추가 리뷰 데이터 크롤링](https://)(*tba)
   
   
 --------------------------------------------------------------------------------
