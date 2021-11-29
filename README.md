@@ -1,8 +1,6 @@
 # Information Retrieval Project  
 
-### 프로젝트 개요  
-- Naver Movie Review Sentiment Analysis  
-- 정보검색 프로젝트로 진행한 영화 추천 서비스
+### 프로젝트 개요 : Naver Movie Review Sentiment Analysis  정보검색 프로젝트로 진행한 영화 추천 서비스  
 - 프로젝트 설명 : (네이버 영화 리뷰 데이터 기반) 영화 이름을 입력하면 유사한 영화를 추천
 - 프로젝트 구조 : 2단계를 거쳐서 최종 추천
   - 1차 추천 : 영화 장르, 감독, 줄거리등 비감정적인 요소만으로 추천
