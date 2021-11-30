@@ -1,0 +1,906 @@
+﻿[
+    {
+        "review": "이런게 영화지 말이안되는데 그럴수있는 진짜영화",
+        "date": "21.10.02",
+        "rating": "10",
+        "author": "실버립(ddkd****)",
+        "review_id": "17728679",
+        "movie_id": "34197"
+    },
+    {
+        "review": "재밌다",
+        "date": "20.11.23",
+        "rating": "10",
+        "author": "초초이(choc****)",
+        "review_id": "17257522",
+        "movie_id": "34197"
+    },
+    {
+        "review": "너무 재미있음인생영화 중 하나",
+        "date": "20.11.19",
+        "rating": "10",
+        "author": "정신수양(noha****)",
+        "review_id": "17252308",
+        "movie_id": "34197"
+    },
+    {
+        "review": "앞서간 영화..연기등등 너무 재미있고 좋았어요",
+        "date": "20.10.15",
+        "rating": "10",
+        "author": "마음(chen****)",
+        "review_id": "17199025",
+        "movie_id": "34197"
+    },
+    {
+        "review": "지구를 지켜라 보다 재밌다. 보라 느껴라!",
+        "date": "20.05.23",
+        "rating": "10",
+        "author": "유기자(waka****)",
+        "review_id": "16879880",
+        "movie_id": "34197"
+    },
+    {
+        "review": "수OO 전 케이블에서 하는는거 우연히 보고는 뭐 이런 병맛이 다있지? 했지ㅋㅋ 15년이 지난 지금 까지도 종종 생각이 난다. 내용이 가물거려서 다시보고 싶은느낌. 평점이 낮을 줄은 알았지만 너무 낮아서 만점 줘야겠다.",
+        "date": "19.12.14",
+        "rating": "10",
+        "author": "도도(domi****)",
+        "review_id": "16484931",
+        "movie_id": "34197"
+    },
+    {
+        "review": "평점 왜이러지.. 되게 재밌게 봤는데",
+        "date": "19.06.22",
+        "rating": "10",
+        "author": "나ㄷ(ddud****)",
+        "review_id": "15831106",
+        "movie_id": "34197"
+    },
+    {
+        "review": "여성끼리 동성애 코드가 있고 뭔가 이상한 가족관계가 형성되어 거부감이 드는 분들도 있을 겁니다. 전개가 루즈하게 지나갑니다. 아내가 태권소녀와 바람나서 들키는데 아내가 보는 앞에서 태권소녀를 성관계 맺은 후 소외당합니다. 이해하고 싶지 않은 세계관",
+        "date": "19.05.25",
+        "rating": "1",
+        "author": "B52(buck****)",
+        "review_id": "15718584",
+        "movie_id": "34197"
+    },
+    {
+        "review": "시대를 너무 앞서감 어떨때는 적당히 현실에 타협하는게 좋을수도...",
+        "date": "19.02.18",
+        "rating": "10",
+        "author": "어쩌라고(dpfk****)",
+        "review_id": "15295260",
+        "movie_id": "34197"
+    },
+    {
+        "review": "good !!! 추천 .",
+        "date": "18.11.20",
+        "rating": "10",
+        "author": "rlaf****",
+        "review_id": "14881967",
+        "movie_id": "34197"
+    },
+    {
+        "review": "시대를 잘못탄 아까운 영화죠!!",
+        "date": "18.07.02",
+        "rating": "10",
+        "author": "hiph****",
+        "review_id": "14264391",
+        "movie_id": "34197"
+    },
+    {
+        "review": "변기커버에똥산거 이영화 몇년후에 실제 경험했는데...이영화가다시생각나더라구요ㅎㅎ다행히 전 친구집여서 다행이였죠ㅋㅋ",
+        "date": "17.10.18",
+        "rating": "10",
+        "author": "Bovin(kigu****)",
+        "review_id": "13299903",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이게 옛날 영화라니...! 신선해",
+        "date": "17.08.19",
+        "rating": "10",
+        "author": "우쭈루주쭈쭈(jj30****)",
+        "review_id": "13065471",
+        "movie_id": "34197"
+    },
+    {
+        "review": "정말  웃기고 좋은 영화였다.",
+        "date": "16.03.12",
+        "rating": "10",
+        "author": "seo3****",
+        "review_id": "10953094",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이 영화 생각보다 정말 좋은 영화 같습니다",
+        "date": "15.12.07",
+        "rating": "10",
+        "author": "nameless(wild****)",
+        "review_id": "10582683",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이렇게 재밌고 참신하고 센스있는 영화에 1점을 주다니. 정신이 나갔구나",
+        "date": "14.11.25",
+        "rating": "10",
+        "author": "튼튼이(vene****)",
+        "review_id": "9420883",
+        "movie_id": "34197"
+    },
+    {
+        "review": "생각했던거 보다 재밌었네요",
+        "date": "14.09.24",
+        "rating": "10",
+        "author": "에밀리(ckrg****)",
+        "review_id": "9238841",
+        "movie_id": "34197"
+    },
+    {
+        "review": "넘 재밌어요.. 조은지 짱",
+        "date": "13.10.07",
+        "rating": "10",
+        "author": "fram****",
+        "review_id": "8042405",
+        "movie_id": "34197"
+    },
+    {
+        "review": "겁나 슬프네",
+        "date": "13.08.17",
+        "rating": "10",
+        "author": "뀨잇(hyan****)",
+        "review_id": "7895450",
+        "movie_id": "34197"
+    },
+    {
+        "review": "동성애보다 남편이 아기 한테 하는짓이 토나옴 이런 영화가 버젓이 나오다니 아청법 은  뭐하냐!",
+        "date": "13.05.08",
+        "rating": "1",
+        "author": "sage****",
+        "review_id": "7515610",
+        "movie_id": "34197"
+    },
+    {
+        "review": "간만에 배꼽잡고봤다. 역시 조은지는 ㅋㅋ 흥행작은 아니라도 잼있다.",
+        "date": "13.04.29",
+        "rating": "10",
+        "author": "kis5****",
+        "review_id": "7492396",
+        "movie_id": "34197"
+    },
+    {
+        "review": "다세포소녀 10점 주고 와봤다 역시 맥을 같이 하는 평이 보이는군 암튼 난 재밌게 봤다 배우들 연기도 좋았고 ^^",
+        "date": "13.03.19",
+        "rating": "10",
+        "author": "하니(xiah****)",
+        "review_id": "7371789",
+        "movie_id": "34197"
+    },
+    {
+        "review": "독특하고 어이없지만 생각보다 많이 웃었다^^",
+        "date": "12.05.19",
+        "rating": "10",
+        "author": "lyoo****",
+        "review_id": "6312507",
+        "movie_id": "34197"
+    },
+    {
+        "review": "1점은머임.. 감떨어지게 독특한게 센스있고 좋구만",
+        "date": "12.05.19",
+        "rating": "10",
+        "author": "icwj****",
+        "review_id": "6312502",
+        "movie_id": "34197"
+    },
+    {
+        "review": "10년만 더 늦게 나왔더라면",
+        "date": "12.03.04",
+        "rating": "10",
+        "author": "sho1****",
+        "review_id": "6123370",
+        "movie_id": "34197"
+    },
+    {
+        "review": "재밌었는데~ 화장실 장면에서 좀 느끼는바가 큼 ^^ 좋았어요",
+        "date": "11.02.12",
+        "rating": "10",
+        "author": "gksm****",
+        "review_id": "5238324",
+        "movie_id": "34197"
+    },
+    {
+        "review": "별이 아까운 영화....쩝....",
+        "date": "11.01.22",
+        "rating": "1",
+        "author": "jung****",
+        "review_id": "5175206",
+        "movie_id": "34197"
+    },
+    {
+        "review": "개인의 취향이니까 ㅋㅋ 재밌다 ㅋ 의미있다 ㅋ",
+        "date": "10.12.20",
+        "rating": "10",
+        "author": "gy31****",
+        "review_id": "5068424",
+        "movie_id": "34197"
+    },
+    {
+        "review": "별 0점을 도대체 왜 줄수 없냐",
+        "date": "10.11.17",
+        "rating": "1",
+        "author": "haan****",
+        "review_id": "4967926",
+        "movie_id": "34197"
+    },
+    {
+        "review": "쌍욕으로 방언터지게 만드는구나 영화라고 하지마라",
+        "date": "10.07.26",
+        "rating": "1",
+        "author": "marr****",
+        "review_id": "4672628",
+        "movie_id": "34197"
+    },
+    {
+        "review": "최악의 한국영화를 꼽으라면 유력한 일등 후보이다",
+        "date": "10.05.22",
+        "rating": "1",
+        "author": "myem****",
+        "review_id": "4515155",
+        "movie_id": "34197"
+    },
+    {
+        "review": "독특한 맛의 로맨스, 이 영화만의 리듬을 탄다면 좋게 볼 것이다.ㅋ",
+        "date": "10.02.18",
+        "rating": "10",
+        "author": "xmnk****",
+        "review_id": "4297554",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이무영... 이사람 다른 작품은 신랄하게 비판하더니 자기 작품은 왜...;;;;;;",
+        "date": "10.01.08",
+        "rating": "1",
+        "author": "shut****",
+        "review_id": "4146989",
+        "movie_id": "34197"
+    },
+    {
+        "review": "내인생 최고의 쓰레기 영화중 하나",
+        "date": "09.12.31",
+        "rating": "1",
+        "author": "remo****",
+        "review_id": "4111602",
+        "movie_id": "34197"
+    },
+    {
+        "review": "&48577;!",
+        "date": "09.08.23",
+        "rating": "2",
+        "author": "dlwo****",
+        "review_id": "3778656",
+        "movie_id": "34197"
+    },
+    {
+        "review": "오마이갓 너무 재밋다",
+        "date": "09.07.04",
+        "rating": "10",
+        "author": "tjsr****",
+        "review_id": "3608847",
+        "movie_id": "34197"
+    },
+    {
+        "review": "내인생 최고의영화다 최악이다하는분 영화자체를 이해못하네 내겐 의미가잇엇다 10점",
+        "date": "09.07.04",
+        "rating": "10",
+        "author": "dlst****",
+        "review_id": "3608843",
+        "movie_id": "34197"
+    },
+    {
+        "review": "철없는 아내역에 빼어난 미모에다 싸가지없는 철부지같은 여자였으면 몰입하기가 좋아",
+        "date": "09.05.02",
+        "rating": "10",
+        "author": "lsj1****",
+        "review_id": "3459640",
+        "movie_id": "34197"
+    },
+    {
+        "review": "...별0개가 없는게 한이다",
+        "date": "09.03.22",
+        "rating": "1",
+        "author": "kink****",
+        "review_id": "3380494",
+        "movie_id": "34197"
+    },
+    {
+        "review": "별 반개도 아까운 영화..",
+        "date": "09.02.27",
+        "rating": "1",
+        "author": "grie****",
+        "review_id": "3336950",
+        "movie_id": "34197"
+    },
+    {
+        "review": "목욕탕신이 좋았는데 왜 조은지만 벗고 공효진은 안벗음?",
+        "date": "08.05.31",
+        "rating": "10",
+        "author": "yous****",
+        "review_id": "2671863",
+        "movie_id": "34197"
+    },
+    {
+        "review": "증말 .... 휴~ 배우들이 아깝당 ㅠㅠ",
+        "date": "08.03.26",
+        "rating": "1",
+        "author": "love****",
+        "review_id": "2543049",
+        "movie_id": "34197"
+    },
+    {
+        "review": "감독 바꿔서 다시 찍어봐. 내겐 독특하지만 재미는 없는 영화로 인식되어있으니까",
+        "date": "08.02.01",
+        "rating": "4",
+        "author": "gall****",
+        "review_id": "2395245",
+        "movie_id": "34197"
+    },
+    {
+        "review": "소재가 참신하고 독특한건 인정! 하지만 이건 아니에요.",
+        "date": "08.02.01",
+        "rating": "4",
+        "author": "mink****",
+        "review_id": "2393610",
+        "movie_id": "34197"
+    },
+    {
+        "review": "소재도 독특하고 배우들 연기도 모두 good, 꽤 좋은 영화라 생각합니다.",
+        "date": "08.01.13",
+        "rating": "10",
+        "author": "satb****",
+        "review_id": "2326518",
+        "movie_id": "34197"
+    },
+    {
+        "review": "한마디로 재미없다. 스토리만 특이하다고 재미가 생겨나는게 아닌데..",
+        "date": "07.12.21",
+        "rating": "4",
+        "author": "soju****",
+        "review_id": "2251990",
+        "movie_id": "34197"
+    },
+    {
+        "review": "참신하다 못해서 보기 참싫어지는 영화",
+        "date": "07.11.06",
+        "rating": "4",
+        "author": "stra****",
+        "review_id": "2137071",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이건 아니&51344;아~~~",
+        "date": "07.09.22",
+        "rating": "2",
+        "author": "evil****",
+        "review_id": "2036620",
+        "movie_id": "34197"
+    },
+    {
+        "review": "나름 재미 ㅋ",
+        "date": "07.09.04",
+        "rating": "10",
+        "author": "heav****",
+        "review_id": "2000212",
+        "movie_id": "34197"
+    },
+    {
+        "review": "제목으로만 알언것보다 훨씬",
+        "date": "07.06.25",
+        "rating": "9",
+        "author": "warm****",
+        "review_id": "1719990",
+        "movie_id": "34197"
+    },
+    {
+        "review": "개척 정신에만 점수를 줄뿐. -_-; 경쾌함이 없고 맥빠진다.",
+        "date": "07.05.07",
+        "rating": "3",
+        "author": "bepl****",
+        "review_id": "1626171",
+        "movie_id": "34197"
+    },
+    {
+        "review": "유치뽕짝 코미디 불륜극화.",
+        "date": "07.04.16",
+        "rating": "2",
+        "author": "salm****",
+        "review_id": "1591284",
+        "movie_id": "34197"
+    },
+    {
+        "review": "OCN인가서 하도 해주길래 봤다. 신선하긴 한데 글쎄...",
+        "date": "07.04.12",
+        "rating": "4",
+        "author": "kana****",
+        "review_id": "1584832",
+        "movie_id": "34197"
+    },
+    {
+        "review": "모든사람이 가슴으로 느낄 수 있길 바라며",
+        "date": "07.04.08",
+        "rating": "10",
+        "author": "dkf2****",
+        "review_id": "1578587",
+        "movie_id": "34197"
+    },
+    {
+        "review": "정말 개판이구나;; 보다가 미치는 줄 알았다",
+        "date": "07.03.12",
+        "rating": "1",
+        "author": "cdsh****",
+        "review_id": "1530841",
+        "movie_id": "34197"
+    },
+    {
+        "review": "과학자가 교회에서 분자실험을 하는꼴이군",
+        "date": "07.03.01",
+        "rating": "3",
+        "author": "ppp0****",
+        "review_id": "1510737",
+        "movie_id": "34197"
+    },
+    {
+        "review": "다양한관점에서 전개되는게 색다르고 무엇보다 태권소녀 멋있음!!ㅎ",
+        "date": "07.02.14",
+        "rating": "10",
+        "author": "tl05****",
+        "review_id": "1470894",
+        "movie_id": "34197"
+    },
+    {
+        "review": "표를 사면서 얼마나 쪽 팔렸을까?...태권소녀 2장이요-_-ㅋ",
+        "date": "07.02.05",
+        "rating": "4",
+        "author": "luv2****",
+        "review_id": "1446440",
+        "movie_id": "34197"
+    },
+    {
+        "review": "색다른 주제를 다루고 있다고 해서 절대 좋은 작품이 아니다",
+        "date": "07.01.11",
+        "rating": "1",
+        "author": "okjo****",
+        "review_id": "1375482",
+        "movie_id": "34197"
+    },
+    {
+        "review": "중간쯤보다 말았다.깝죽대던 이무영 사라진 이유를 알겠다",
+        "date": "07.01.07",
+        "rating": "1",
+        "author": "6591****",
+        "review_id": "1363087",
+        "movie_id": "34197"
+    },
+    {
+        "review": "가족의 탄생,지구를 지켜라 재밌게 본사람은 꼭봐야한다.",
+        "date": "07.01.04",
+        "rating": "10",
+        "author": "prom****",
+        "review_id": "1355947",
+        "movie_id": "34197"
+    },
+    {
+        "review": "긴급조치19호,다세포소녀와 맞짱 뜰만한걸.",
+        "date": "06.12.05",
+        "rating": "4",
+        "author": "juny****",
+        "review_id": "1268317",
+        "movie_id": "34197"
+    },
+    {
+        "review": "아픕니다. 저렇게 될수밖에 없었던 사회현실을 꼬집는군요 .",
+        "date": "06.11.29",
+        "rating": "9",
+        "author": "nb08****",
+        "review_id": "1257243",
+        "movie_id": "34197"
+    },
+    {
+        "review": "파격적이다!유머감각이신선하다!(보수적인사람들은보지말것!;)",
+        "date": "06.11.21",
+        "rating": "9",
+        "author": "l8s7****",
+        "review_id": "1244357",
+        "movie_id": "34197"
+    },
+    {
+        "review": "정말 실험적이고 괜찮은 영환데 제목때문에 베렸다 ㅜㅜ",
+        "date": "06.11.16",
+        "rating": "10",
+        "author": "hypn****",
+        "review_id": "1235847",
+        "movie_id": "34197"
+    },
+    {
+        "review": "재밌는데 ㄷㄷㄷ",
+        "date": "06.11.03",
+        "rating": "10",
+        "author": "khs4****",
+        "review_id": "1213567",
+        "movie_id": "34197"
+    },
+    {
+        "review": "조은지 가슴수술했다!!!ㅋㅋㅋ",
+        "date": "06.10.15",
+        "rating": "1",
+        "author": "comp****",
+        "review_id": "1181850",
+        "movie_id": "34197"
+    },
+    {
+        "review": "아스트랄한 삶의 철학과 코메디의 빛나는 만남!",
+        "date": "06.10.10",
+        "rating": "9",
+        "author": "mmm7****",
+        "review_id": "1174489",
+        "movie_id": "34197"
+    },
+    {
+        "review": "평점이왜이리낮지. 실험적.감독의 사상적 자유로움이 느껴진다",
+        "date": "06.10.09",
+        "rating": "10",
+        "author": "varn****",
+        "review_id": "1173342",
+        "movie_id": "34197"
+    },
+    {
+        "review": "진짜 최고다. 왜 쓰레기라고 그러는지 모르겠네-_-;",
+        "date": "06.10.04",
+        "rating": "10",
+        "author": "ccmm****",
+        "review_id": "1159571",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이거 뭐 병.... 긴급조치 19호 급인데",
+        "date": "06.09.11",
+        "rating": "1",
+        "author": "djaa****",
+        "review_id": "1118091",
+        "movie_id": "34197"
+    },
+    {
+        "review": "내생의 최악의 영화...",
+        "date": "06.08.26",
+        "rating": "1",
+        "author": "arba****",
+        "review_id": "1078882",
+        "movie_id": "34197"
+    },
+    {
+        "review": "뭐 이런 영화가 다있대;;;",
+        "date": "06.08.22",
+        "rating": "3",
+        "author": "yh95****",
+        "review_id": "1067101",
+        "movie_id": "34197"
+    },
+    {
+        "review": "3점대 유지 대작전 다세포2점 유지를 위해",
+        "date": "06.08.19",
+        "rating": "1",
+        "author": "hige****",
+        "review_id": "1055434",
+        "movie_id": "34197"
+    },
+    {
+        "review": "최---------------------------악",
+        "date": "06.08.12",
+        "rating": "1",
+        "author": "yutb****",
+        "review_id": "1001992",
+        "movie_id": "34197"
+    },
+    {
+        "review": "우유만 먹다가 콜라를 먹어본 듯한 색다르고 유쾌한 영화 ㅋ",
+        "date": "06.08.08",
+        "rating": "9",
+        "author": "keer****",
+        "review_id": "986118",
+        "movie_id": "34197"
+    },
+    {
+        "review": "-점수가 있다면 마이너스 최고점을 주고 싶다 진짜 시간아깝다..",
+        "date": "06.07.28",
+        "rating": "1",
+        "author": "youl****",
+        "review_id": "933597",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이무영 뭐하는 인간인가",
+        "date": "06.07.02",
+        "rating": "1",
+        "author": "vxyt****",
+        "review_id": "867078",
+        "movie_id": "34197"
+    },
+    {
+        "review": "철딱서니없는 조은지의 연기에 10점",
+        "date": "06.06.24",
+        "rating": "10",
+        "author": "craz****",
+        "review_id": "855326",
+        "movie_id": "34197"
+    },
+    {
+        "review": "평점이 왜이리 높지 -_-;;; 보고 평점 매긴거 맞나??",
+        "date": "06.06.09",
+        "rating": "1",
+        "author": "lch1****",
+        "review_id": "837200",
+        "movie_id": "34197"
+    },
+    {
+        "review": "유쾌!",
+        "date": "06.06.05",
+        "rating": "10",
+        "author": "yaoi****",
+        "review_id": "832775",
+        "movie_id": "34197"
+    },
+    {
+        "review": "레즈...징그러",
+        "date": "06.05.01",
+        "rating": "2",
+        "author": "natu****",
+        "review_id": "782627",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이런 게 사랑이라고 생각해",
+        "date": "06.03.06",
+        "rating": "10",
+        "author": "jinn****",
+        "review_id": "706911",
+        "movie_id": "34197"
+    },
+    {
+        "review": "나름 기발한 상상력이 즐거웠음, 화장실 개그 짱-_-!",
+        "date": "06.03.03",
+        "rating": "10",
+        "author": "ahnj****",
+        "review_id": "702877",
+        "movie_id": "34197"
+    },
+    {
+        "review": "미친아내와 미친남편 그리고 미친소녀",
+        "date": "06.02.16",
+        "rating": "4",
+        "author": "ll18****",
+        "review_id": "673179",
+        "movie_id": "34197"
+    },
+    {
+        "review": "공효진이 이런 영화에 출연한 것이 미스테리.ㅎ두번보기싫은영화",
+        "date": "06.02.01",
+        "rating": "1",
+        "author": "yskd****",
+        "review_id": "639581",
+        "movie_id": "34197"
+    },
+    {
+        "review": "너무너무 재미있었음. 유쾌한 실험영화",
+        "date": "06.01.13",
+        "rating": "10",
+        "author": "rain****",
+        "review_id": "585720",
+        "movie_id": "34197"
+    },
+    {
+        "review": "실망이야! ㅠ",
+        "date": "05.12.28",
+        "rating": "1",
+        "author": "luy_****",
+        "review_id": "534916",
+        "movie_id": "34197"
+    },
+    {
+        "review": "잘 만들었음 소재는 괜찮은데..",
+        "date": "05.11.29",
+        "rating": "3",
+        "author": "king****",
+        "review_id": "488316",
+        "movie_id": "34197"
+    },
+    {
+        "review": "철 없는 아내? 단순한 미.친.년.",
+        "date": "05.11.28",
+        "rating": "1",
+        "author": "dldl****",
+        "review_id": "487973",
+        "movie_id": "34197"
+    },
+    {
+        "review": "실험영화라 낯설지만, 나름대로 괜찮았음.ㅋㅋㅋ",
+        "date": "05.07.15",
+        "rating": "10",
+        "author": "agap****",
+        "review_id": "322976",
+        "movie_id": "34197"
+    },
+    {
+        "review": "실험영화인가... 당황스러운 스토리",
+        "date": "05.02.20",
+        "rating": "4",
+        "author": "gabe****",
+        "review_id": "225723",
+        "movie_id": "34197"
+    },
+    {
+        "review": "실험영화에 가깝죠? 막 야한거만 보시는 분도있는데... 뭐 나름대로 독특",
+        "date": "05.01.11",
+        "rating": "9",
+        "author": "mlsl****",
+        "review_id": "182657",
+        "movie_id": "34197"
+    },
+    {
+        "review": "별점이 안좋아서 이상한영화인줄 알았는데,정말 괜찮던데!",
+        "date": "05.01.04",
+        "rating": "10",
+        "author": "plas****",
+        "review_id": "176960",
+        "movie_id": "34197"
+    },
+    {
+        "review": "꽤나 신선하고 꽤나 따분하고 머 그런영화",
+        "date": "04.12.26",
+        "rating": "10",
+        "author": "stil****",
+        "review_id": "169990",
+        "movie_id": "34197"
+    },
+    {
+        "review": "이해하면 최고의 영화.",
+        "date": "04.11.22",
+        "rating": "10",
+        "author": "smas****",
+        "review_id": "150181",
+        "movie_id": "34197"
+    },
+    {
+        "review": "삼류영화, 진짜 왜만들었는지... 꼭 그따위로 영화만들수밖에없었을까?",
+        "date": "04.11.21",
+        "rating": "1",
+        "author": "ptj1****",
+        "review_id": "149664",
+        "movie_id": "34197"
+    },
+    {
+        "review": "도대체이걸왜만들었을까?하나도아깝다...티비에서해줘서바껀만 ㅡㅡ",
+        "date": "04.11.01",
+        "rating": "1",
+        "author": "urig****",
+        "review_id": "137031",
+        "movie_id": "34197"
+    },
+    {
+        "review": "원가 많이 어설프다",
+        "date": "04.10.17",
+        "rating": "3",
+        "author": "kkek****",
+        "review_id": "127527",
+        "movie_id": "34197"
+    },
+    {
+        "review": "점수 주지마라 이런 천박한영화..",
+        "date": "04.09.26",
+        "rating": "1",
+        "author": "dark****",
+        "review_id": "114794",
+        "movie_id": "34197"
+    },
+    {
+        "review": "진짜 찌질스런 영화 1점도 아깝네",
+        "date": "04.09.17",
+        "rating": "1",
+        "author": "hoya****",
+        "review_id": "109841",
+        "movie_id": "34197"
+    },
+    {
+        "review": "포스터봐라 딱 쓰레기티나잔아",
+        "date": "04.09.04",
+        "rating": "1",
+        "author": "wodl****",
+        "review_id": "102497",
+        "movie_id": "34197"
+    },
+    {
+        "review": "3류",
+        "date": "04.08.31",
+        "rating": "4",
+        "author": "sakt****",
+        "review_id": "100416",
+        "movie_id": "34197"
+    },
+    {
+        "review": "ㅡ,.ㅡ 황당하면서 어의없이 본 영화 ^^...........",
+        "date": "04.08.25",
+        "rating": "10",
+        "author": "k7up****",
+        "review_id": "96698",
+        "movie_id": "34197"
+    },
+    {
+        "review": "정말 황당한 영화",
+        "date": "04.08.23",
+        "rating": "2",
+        "author": "myli****",
+        "review_id": "95386",
+        "movie_id": "34197"
+    },
+    {
+        "review": "엽기다~~ ㅡㅡ;;;",
+        "date": "04.08.20",
+        "rating": "3",
+        "author": "choi****",
+        "review_id": "93205",
+        "movie_id": "34197"
+    },
+    {
+        "review": "작가주의만 추구하다 대중에 외면되면 그걸로 끝이다",
+        "date": "04.08.13",
+        "rating": "3",
+        "author": "bull****",
+        "review_id": "89622",
+        "movie_id": "34197"
+    },
+    {
+        "review": "어설픈 작가주의 동참된 영화.",
+        "date": "04.08.11",
+        "rating": "1",
+        "author": "tubt****",
+        "review_id": "88178",
+        "movie_id": "34197"
+    },
+    {
+        "review": "황당하지만 뭐 그런데로 봐줄만한 영화;;",
+        "date": "04.07.01",
+        "rating": "10",
+        "author": "stay****",
+        "review_id": "63769",
+        "movie_id": "34197"
+    },
+    {
+        "review": "머동성애하면안되나??남자랑하기그래서여자랑하는건데,,,어때서??",
+        "date": "04.04.30",
+        "rating": "10",
+        "author": "bett****",
+        "review_id": "40143",
+        "movie_id": "34197"
+    },
+    {
+        "review": "동성이라고, 야한내용이라고 무조건 박대받아야한다는건 편견이다.",
+        "date": "04.04.10",
+        "rating": "10",
+        "author": "ksnm****",
+        "review_id": "35459",
+        "movie_id": "34197"
+    },
+    {
+        "review": "정말 너무 했다.....",
+        "date": "04.02.04",
+        "rating": "2",
+        "author": "god1****",
+        "review_id": "15959",
+        "movie_id": "34197"
+    },
+    {
+        "review": "제목에서 말해주는 거 외에 정말 볼꺼 없는 영화",
+        "date": "03.12.17",
+        "rating": "3",
+        "author": "kiss****",
+        "review_id": "3599",
+        "movie_id": "34197"
+    }
+]

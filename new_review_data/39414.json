@@ -1,0 +1,82 @@
+﻿[
+    {
+        "review": "좋습니다.",
+        "date": "12.04.20",
+        "rating": "10",
+        "author": "nimb****",
+        "review_id": "6235564",
+        "movie_id": "39414"
+    },
+    {
+        "review": "마음에 듭니다.",
+        "date": "09.09.01",
+        "rating": "10",
+        "author": "dong****",
+        "review_id": "3804147",
+        "movie_id": "39414"
+    },
+    {
+        "review": "내용이 좋습니다.",
+        "date": "09.09.01",
+        "rating": "10",
+        "author": "0527****",
+        "review_id": "3804103",
+        "movie_id": "39414"
+    },
+    {
+        "review": "태조왕건의 그늘에 가려진 비운의 작품. 내용만으로는 태조왕건보다 낫다.",
+        "date": "09.08.24",
+        "rating": "10",
+        "author": "keiy****",
+        "review_id": "3782199",
+        "movie_id": "39414"
+    },
+    {
+        "review": "재미있는 데",
+        "date": "07.10.25",
+        "rating": "10",
+        "author": "neoc****",
+        "review_id": "2110211",
+        "movie_id": "39414"
+    },
+    {
+        "review": "조기종영되서아쉬웠던드라마",
+        "date": "07.01.26",
+        "rating": "10",
+        "author": "i971****",
+        "review_id": "1413901",
+        "movie_id": "39414"
+    },
+    {
+        "review": "너무 구성이 무난하다 ㅡㅡ 재미없다",
+        "date": "06.08.14",
+        "rating": "3",
+        "author": "ghwl****",
+        "review_id": "1031452",
+        "movie_id": "39414"
+    },
+    {
+        "review": "제가 본 왕중에서 가장 멋있는 왕이셨던것 같아요~ 화이팅!",
+        "date": "05.08.26",
+        "rating": "10",
+        "author": "yjsj****",
+        "review_id": "384506",
+        "movie_id": "39414"
+    },
+    {
+        "review": "왕건 후속편으로써 매우 실망스런 작품.",
+        "date": "05.02.04",
+        "rating": "3",
+        "author": "sala****",
+        "review_id": "206811",
+        "movie_id": "39414"
+    },
+    {
+        "review": "차라리 왕건 보는게 낫다",
+        "date": "05.01.11",
+        "rating": "1",
+        "author": "wjdw****",
+        "review_id": "182806",
+        "movie_id": "39414"
+    }
+]

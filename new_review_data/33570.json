@@ -1,0 +1,74 @@
+﻿[
+    {
+        "review": "수면제가 따로 필요없다 .",
+        "date": "09.12.15",
+        "rating": "3",
+        "author": "evil****",
+        "review_id": "4046501",
+        "movie_id": "33570"
+    },
+    {
+        "review": "멋진 영화",
+        "date": "08.04.19",
+        "rating": "10",
+        "author": "coal****",
+        "review_id": "2589147",
+        "movie_id": "33570"
+    },
+    {
+        "review": "감독의 고뇌가 화면위에서 절실하게 펼쳐진다. 아.......",
+        "date": "08.04.12",
+        "rating": "10",
+        "author": "flyn****",
+        "review_id": "2577352",
+        "movie_id": "33570"
+    },
+    {
+        "review": "자신의 사상만을 늘어놓은채 재미는 배제한 고다르 좀 아쉽다",
+        "date": "08.02.14",
+        "rating": "3",
+        "author": "okjo****",
+        "review_id": "2444404",
+        "movie_id": "33570"
+    },
+    {
+        "review": "사랑은, 이 폭력적인 세계에 어떻게 기능할 수 있는가.",
+        "date": "06.09.18",
+        "rating": "10",
+        "author": "kim5****",
+        "review_id": "1130237",
+        "movie_id": "33570"
+    },
+    {
+        "review": "이런 영화가 단 '한'관에서 상영된다는 것이 우리의 현실이다",
+        "date": "06.09.14",
+        "rating": "10",
+        "author": "jarh****",
+        "review_id": "1121319",
+        "movie_id": "33570"
+    },
+    {
+        "review": "평론가만좋아하는영화",
+        "date": "06.09.04",
+        "rating": "1",
+        "author": "suza****",
+        "review_id": "1102214",
+        "movie_id": "33570"
+    },
+    {
+        "review": "이런영화는 별루 ........ ㅋㅋㅋㅋ 스릴영화어디없나 ? ㅜㅜ",
+        "date": "06.08.31",
+        "rating": "1",
+        "author": "wlsd****",
+        "review_id": "1092673",
+        "movie_id": "33570"
+    },
+    {
+        "review": "재미잇어요`",
+        "date": "06.08.26",
+        "rating": "10",
+        "author": "immy****",
+        "review_id": "1078603",
+        "movie_id": "33570"
+    }
+]

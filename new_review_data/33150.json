@@ -1,0 +1,98 @@
+﻿[
+    {
+        "review": "bad",
+        "date": "07.12.04",
+        "rating": "1",
+        "author": "cles****",
+        "review_id": "2205239",
+        "movie_id": "33150"
+    },
+    {
+        "review": "좋은 듯 하지만 지루해서 평균 이하",
+        "date": "07.10.13",
+        "rating": "1",
+        "author": "ysuh****",
+        "review_id": "2086746",
+        "movie_id": "33150"
+    },
+    {
+        "review": "끝까지 볼려면 노력이...",
+        "date": "07.01.22",
+        "rating": "1",
+        "author": "henr****",
+        "review_id": "1405165",
+        "movie_id": "33150"
+    },
+    {
+        "review": "좋다 좋다~좋다!!!!",
+        "date": "06.10.15",
+        "rating": "10",
+        "author": "tjdd****",
+        "review_id": "1183374",
+        "movie_id": "33150"
+    },
+    {
+        "review": "거장다운 연출력",
+        "date": "06.09.04",
+        "rating": "10",
+        "author": "zeed****",
+        "review_id": "1101344",
+        "movie_id": "33150"
+    },
+    {
+        "review": "한 편의 연극을 보는 듯한 영화. 마지막 장면이 특히 인상적.",
+        "date": "05.03.16",
+        "rating": "10",
+        "author": "stry****",
+        "review_id": "242013",
+        "movie_id": "33150"
+    },
+    {
+        "review": "제가 생각하는 사랑은 \"그저 바라만 보는 사랑\" 인데요, 좋은 영화입니다",
+        "date": "04.03.12",
+        "rating": "9",
+        "author": "bact****",
+        "review_id": "28519",
+        "movie_id": "33150"
+    },
+    {
+        "review": "외국 사람들은 웃길지 모르겠지만 나에게는 지루함의 연속",
+        "date": "04.02.15",
+        "rating": "2",
+        "author": "wear****",
+        "review_id": "20324",
+        "movie_id": "33150"
+    },
+    {
+        "review": "엉성한 자막과 잘못 짤린 장면들로 전체적 내용 이해가 힘들었음&지루했음",
+        "date": "04.02.10",
+        "rating": "2",
+        "author": "milk****",
+        "review_id": "18738",
+        "movie_id": "33150"
+    },
+    {
+        "review": "로맨틱코미디라고 하긴 우리의 정서와 잘 맞지 않는듯.. -_-;;",
+        "date": "04.02.10",
+        "rating": "4",
+        "author": "pina****",
+        "review_id": "18510",
+        "movie_id": "33150"
+    },
+    {
+        "review": "제 자신이 너무 초라하게 느껴지는...도통 이해가 안되고, 재미가 없는.",
+        "date": "04.02.09",
+        "rating": "1",
+        "author": "mano****",
+        "review_id": "18424",
+        "movie_id": "33150"
+    },
+    {
+        "review": "시사회 다녀왔는데. 저는 영아니네요. 문화적차이가 느껴지는듯하네요.",
+        "date": "04.01.30",
+        "rating": "1",
+        "author": "mall****",
+        "review_id": "14472",
+        "movie_id": "33150"
+    }
+]

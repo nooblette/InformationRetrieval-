@@ -1,0 +1,714 @@
+﻿[
+    {
+        "review": "주제는 좋은데 내용이 별로",
+        "date": "19.07.13",
+        "rating": "4",
+        "author": "맥IBM(choi****)",
+        "review_id": "15897443",
+        "movie_id": "46776"
+    },
+    {
+        "review": "Blackout..",
+        "date": "19.01.04",
+        "rating": "1",
+        "author": "그라마(bbq2****)",
+        "review_id": "15084269",
+        "movie_id": "46776"
+    },
+    {
+        "review": "잔인하고..  싸이코같아요비추에요",
+        "date": "16.07.28",
+        "rating": "1",
+        "author": "퍼피로스(rain****)",
+        "review_id": "11487942",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이런 비슷한 영화중에 데블이라는 영화가 더 재미있다.",
+        "date": "15.07.31",
+        "rating": "1",
+        "author": "해적왕(kjw9****)",
+        "review_id": "10168137",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이게 실화라니... 소름...",
+        "date": "14.03.13",
+        "rating": "10",
+        "author": "신쿠버2(whgu****)",
+        "review_id": "8572070",
+        "movie_id": "46776"
+    },
+    {
+        "review": "살아생전 개명작 ~ 꼭보세요 지려요..진짜 OO 재밋다 OO ㅋㅋㅋ",
+        "date": "14.03.13",
+        "rating": "10",
+        "author": "boss****",
+        "review_id": "8572054",
+        "movie_id": "46776"
+    },
+    {
+        "review": "개잼있다 진심 ~쩐다 쩔어 ~꼭보세요 ~",
+        "date": "13.12.18",
+        "rating": "10",
+        "author": "샤타(tixk****)",
+        "review_id": "8222403",
+        "movie_id": "46776"
+    },
+    {
+        "review": "감독을 엘리베이터에 가둬야함",
+        "date": "13.05.11",
+        "rating": "1",
+        "author": "lga7****",
+        "review_id": "7521741",
+        "movie_id": "46776"
+    },
+    {
+        "review": "초코바의 반전이 쩔었음..ㄷㄷ",
+        "date": "13.04.22",
+        "rating": "10",
+        "author": "간지유랑(skyo****)",
+        "review_id": "7475622",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이게 왜 4점대죠 ? ㅋㅋㅋㅋㅋ 네이버평점은 진짜 믿을만한게 못되네요",
+        "date": "12.12.12",
+        "rating": "1",
+        "author": "smo8****",
+        "review_id": "6995129",
+        "movie_id": "46776"
+    },
+    {
+        "review": "난 공포영화 좋아하는 편인데도 이건 진짜 별로 였음 .........",
+        "date": "11.09.06",
+        "rating": "3",
+        "author": "ssmi****",
+        "review_id": "5712030",
+        "movie_id": "46776"
+    },
+    {
+        "review": "할 말이 없음.....................................",
+        "date": "11.08.02",
+        "rating": "1",
+        "author": "rg38****",
+        "review_id": "5591051",
+        "movie_id": "46776"
+    },
+    {
+        "review": "흥미로운 소재를 이렇게 연출해서는 안된다는 것을 보여준 영화",
+        "date": "11.07.29",
+        "rating": "4",
+        "author": "hira****",
+        "review_id": "5578644",
+        "movie_id": "46776"
+    },
+    {
+        "review": "감독, 배우 모두 약 먹었나?",
+        "date": "11.04.19",
+        "rating": "3",
+        "author": "evil****",
+        "review_id": "5383536",
+        "movie_id": "46776"
+    },
+    {
+        "review": "킬링타임 용도 아님 보고나서 후회 막급",
+        "date": "11.03.11",
+        "rating": "4",
+        "author": "jein****",
+        "review_id": "5307018",
+        "movie_id": "46776"
+    },
+    {
+        "review": "아무 의미없는 영화",
+        "date": "11.03.03",
+        "rating": "1",
+        "author": "west****",
+        "review_id": "5290870",
+        "movie_id": "46776"
+    },
+    {
+        "review": "걍 쓰레기ㅡㅡ",
+        "date": "11.02.02",
+        "rating": "1",
+        "author": "ksh1****",
+        "review_id": "5208631",
+        "movie_id": "46776"
+    },
+    {
+        "review": "존나 이건 OO 존나 쓰레기네..",
+        "date": "11.02.02",
+        "rating": "1",
+        "author": "blac****",
+        "review_id": "5207631",
+        "movie_id": "46776"
+    },
+    {
+        "review": "너무 야해 ㅠ...ㅠ 미성년자 관람 불가요... 충격임",
+        "date": "11.01.30",
+        "rating": "1",
+        "author": "juy0****",
+        "review_id": "5197658",
+        "movie_id": "46776"
+    },
+    {
+        "review": "ㄷㄷ모니이건",
+        "date": "11.01.05",
+        "rating": "3",
+        "author": "mant****",
+        "review_id": "5132135",
+        "movie_id": "46776"
+    },
+    {
+        "review": "ㅡㅡ재미업써 지루해 언젠가옛날에 본듯한 기분을주지왜...",
+        "date": "11.01.01",
+        "rating": "1",
+        "author": "aqua****",
+        "review_id": "5111292",
+        "movie_id": "46776"
+    },
+    {
+        "review": "괜찮구만. 눈들이 너무 높다. 나는 재밌게 봤음... 평점 4점 같은 소리들 하고 있네.",
+        "date": "10.11.08",
+        "rating": "10",
+        "author": "nimm****",
+        "review_id": "4944883",
+        "movie_id": "46776"
+    },
+    {
+        "review": "겉 모습만 보고 사람을 판단 하지 말라...",
+        "date": "10.10.20",
+        "rating": "2",
+        "author": "iu92****",
+        "review_id": "4912020",
+        "movie_id": "46776"
+    },
+    {
+        "review": "역시 사람은 겉모습 만으로는 판단하지 말라는 교훈을 주는 영화 ~~~~~~",
+        "date": "10.10.17",
+        "rating": "3",
+        "author": "fnsk****",
+        "review_id": "4906852",
+        "movie_id": "46776"
+    },
+    {
+        "review": "한개도 아깝네여 ㅡㅡ",
+        "date": "10.10.14",
+        "rating": "1",
+        "author": "tnwl****",
+        "review_id": "4901478",
+        "movie_id": "46776"
+    },
+    {
+        "review": "그냥 쓰레기",
+        "date": "10.10.13",
+        "rating": "1",
+        "author": "kami****",
+        "review_id": "4900697",
+        "movie_id": "46776"
+    },
+    {
+        "review": "긴장감 zero, 재미 zero, 스토리 zero",
+        "date": "10.10.08",
+        "rating": "1",
+        "author": "anno****",
+        "review_id": "4891227",
+        "movie_id": "46776"
+    },
+    {
+        "review": "그런데로 괜찮은 스릴러 작품",
+        "date": "10.09.26",
+        "rating": "10",
+        "author": "nomo****",
+        "review_id": "4871144",
+        "movie_id": "46776"
+    },
+    {
+        "review": "☆한개도 아까운 그야말로 최악의 영화~~ㅉㅉ",
+        "date": "10.09.26",
+        "rating": "1",
+        "author": "itsm****",
+        "review_id": "4869793",
+        "movie_id": "46776"
+    },
+    {
+        "review": "초등학교 영화부에서 만들어도 이보단 나을듯",
+        "date": "10.09.25",
+        "rating": "1",
+        "author": "qhwl****",
+        "review_id": "4866779",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이딴걸보느니 잠자면서 꿈꾸는게 더낳겠어 욕이 절로나오는 OOO기 제목에낚김",
+        "date": "10.09.25",
+        "rating": "1",
+        "author": "chan****",
+        "review_id": "4866655",
+        "movie_id": "46776"
+    },
+    {
+        "review": "에이단이 나오는것 만으로 10점 ㅠㅠ 이남자 너무 보기 힘들어서",
+        "date": "10.09.20",
+        "rating": "10",
+        "author": "tttk****",
+        "review_id": "4851406",
+        "movie_id": "46776"
+    },
+    {
+        "review": "긴장감이 없다",
+        "date": "10.09.10",
+        "rating": "4",
+        "author": "resm****",
+        "review_id": "4827229",
+        "movie_id": "46776"
+    },
+    {
+        "review": "점수가 넘 낮잔아 곧 볼건데..그래서 10점준다",
+        "date": "10.09.10",
+        "rating": "10",
+        "author": "dbst****",
+        "review_id": "4826430",
+        "movie_id": "46776"
+    },
+    {
+        "review": "형편없다고 외치죠..",
+        "date": "10.09.05",
+        "rating": "1",
+        "author": "drea****",
+        "review_id": "4818500",
+        "movie_id": "46776"
+    },
+    {
+        "review": "설정이 모가 흥미로? 뻔한소재에 영화자체는 성질테스트용.",
+        "date": "10.09.05",
+        "rating": "1",
+        "author": "jush****",
+        "review_id": "4818126",
+        "movie_id": "46776"
+    },
+    {
+        "review": "영화를 보느니 차라리 엘리베이터에 두시간동안 갇혀있는게 더 재밌겠다",
+        "date": "10.08.25",
+        "rating": "1",
+        "author": "dg_d****",
+        "review_id": "4790210",
+        "movie_id": "46776"
+    },
+    {
+        "review": "별 반개도 아쉬운 영화",
+        "date": "10.08.23",
+        "rating": "1",
+        "author": "snow****",
+        "review_id": "4785651",
+        "movie_id": "46776"
+    },
+    {
+        "review": "돈이 아깝네.",
+        "date": "10.08.16",
+        "rating": "1",
+        "author": "june****",
+        "review_id": "4755439",
+        "movie_id": "46776"
+    },
+    {
+        "review": "공포와 스릴을 찾아 볼 수 없는 공포스릴러영화.",
+        "date": "10.08.13",
+        "rating": "2",
+        "author": "yank****",
+        "review_id": "4744398",
+        "movie_id": "46776"
+    },
+    {
+        "review": "무섭지도, 긴장되지도 않음. 의미하는게 무엇인지 모르겠음 이렇게 별 안준영화도처음",
+        "date": "10.08.13",
+        "rating": "3",
+        "author": "mode****",
+        "review_id": "4743245",
+        "movie_id": "46776"
+    },
+    {
+        "review": "그나마 짧아서 참고 봤다",
+        "date": "10.08.12",
+        "rating": "2",
+        "author": "hell****",
+        "review_id": "4739749",
+        "movie_id": "46776"
+    },
+    {
+        "review": "한정 된 공간에 ㅄ 같은 스토리",
+        "date": "10.08.09",
+        "rating": "4",
+        "author": "cbh8****",
+        "review_id": "4726888",
+        "movie_id": "46776"
+    },
+    {
+        "review": "뭐이딴게,,,,",
+        "date": "10.08.06",
+        "rating": "1",
+        "author": "hood****",
+        "review_id": "4714867",
+        "movie_id": "46776"
+    },
+    {
+        "review": "10글자로 표현하면.... 잠안올때 보면 딱이네요 (( 개 쓰레기 영화 ))",
+        "date": "10.08.06",
+        "rating": "1",
+        "author": "lica****",
+        "review_id": "4712751",
+        "movie_id": "46776"
+    },
+    {
+        "review": "최악의 영화 보지마세요",
+        "date": "10.08.02",
+        "rating": "1",
+        "author": "hotp****",
+        "review_id": "4698654",
+        "movie_id": "46776"
+    },
+    {
+        "review": "에이단 질렌의 사이코연기 빼면 그닥 , 구성은 좋은 데 대충 만든 느낌이다",
+        "date": "10.08.02",
+        "rating": "4",
+        "author": "yjo4****",
+        "review_id": "4698062",
+        "movie_id": "46776"
+    },
+    {
+        "review": "썅 OOO기다 내 주말다날아갔음 ㅠㅠㅠㅠ8.5일날 사람들 다낚여라 ㅋㅋ",
+        "date": "10.08.01",
+        "rating": "1",
+        "author": "0513****",
+        "review_id": "4695391",
+        "movie_id": "46776"
+    },
+    {
+        "review": "자신있게 말할수있음 최악임..",
+        "date": "10.08.01",
+        "rating": "1",
+        "author": "core****",
+        "review_id": "4692767",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이게 뭐가 공포영화?어줍잔은 살인자 하나 섞어두고.결국은 살인자 OO줄 알았다ㅡㅡ",
+        "date": "10.07.30",
+        "rating": "1",
+        "author": "lvyh****",
+        "review_id": "4688807",
+        "movie_id": "46776"
+    },
+    {
+        "review": "큐브1, 폰부스 같은 영화 기대했는데 그냥 뻔하디 뻔한 영화라는 말이 제일 잘 맞을듯",
+        "date": "10.07.26",
+        "rating": "2",
+        "author": "refl****",
+        "review_id": "4674033",
+        "movie_id": "46776"
+    },
+    {
+        "review": "OOO새끼 나오는 영화. 더럽다 참..",
+        "date": "10.07.26",
+        "rating": "1",
+        "author": "lomi****",
+        "review_id": "4674002",
+        "movie_id": "46776"
+    },
+    {
+        "review": "괜히 시간만 잡아먹는 쓸데없는 회상씬들이 너무 많다.",
+        "date": "10.07.25",
+        "rating": "4",
+        "author": "kjh_****",
+        "review_id": "4671634",
+        "movie_id": "46776"
+    },
+    {
+        "review": "진짜 웃음ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "10.07.24",
+        "rating": "10",
+        "author": "k5sw****",
+        "review_id": "4666757",
+        "movie_id": "46776"
+    },
+    {
+        "review": "재미 자체를 떠나서 이게 영화 맞나여?? ㅡㅡ;; 감독 얼굴 한번 보고 싶네...",
+        "date": "10.07.24",
+        "rating": "1",
+        "author": "kjoo****",
+        "review_id": "4666754",
+        "movie_id": "46776"
+    },
+    {
+        "review": "잡다한 이야기로 시선만 흐릴뿐",
+        "date": "10.07.24",
+        "rating": "3",
+        "author": "11pa****",
+        "review_id": "4666171",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이거만들돈으로 세계여러나라의 아이들을 도와줍시다 이 ㅅㅂㄹ들아",
+        "date": "10.07.24",
+        "rating": "1",
+        "author": "ckh0****",
+        "review_id": "4665334",
+        "movie_id": "46776"
+    },
+    {
+        "review": "한국측수입사는자멸하려고하냐??~DVD로도 나오면안될 TV용괴작!!!!!!!!!!!!",
+        "date": "10.07.23",
+        "rating": "1",
+        "author": "seal****",
+        "review_id": "4663542",
+        "movie_id": "46776"
+    },
+    {
+        "review": "아웅..시간낭비했다..지루하네요",
+        "date": "10.07.23",
+        "rating": "4",
+        "author": "elfs****",
+        "review_id": "4662791",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이 영화 개봉도 하네...과연 돈 주고 본 사람의 심정은?",
+        "date": "10.07.22",
+        "rating": "3",
+        "author": "sona****",
+        "review_id": "4662125",
+        "movie_id": "46776"
+    },
+    {
+        "review": "왜 0점은 없는거지..",
+        "date": "10.06.08",
+        "rating": "1",
+        "author": "rack****",
+        "review_id": "4552963",
+        "movie_id": "46776"
+    },
+    {
+        "review": "개념없는 그 ○○가 돌변...아 정말 공포를 가장한 허접한 드라마한편 짜증",
+        "date": "10.01.28",
+        "rating": "3",
+        "author": "egyp****",
+        "review_id": "4216777",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이게재밌단사람은  스릴러 볼줄 모르는사람",
+        "date": "09.10.13",
+        "rating": "1",
+        "author": "hide****",
+        "review_id": "3890160",
+        "movie_id": "46776"
+    },
+    {
+        "review": "별 한개도 아깝다...",
+        "date": "09.09.15",
+        "rating": "1",
+        "author": "saip****",
+        "review_id": "3832262",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이건뭐......휴......거지같네영화가-_-",
+        "date": "09.09.12",
+        "rating": "1",
+        "author": "mayw****",
+        "review_id": "3827030",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이게 왜 공포 스릴러지... 포스터사진만 무섭네",
+        "date": "09.09.10",
+        "rating": "4",
+        "author": "sdy0****",
+        "review_id": "3822123",
+        "movie_id": "46776"
+    },
+    {
+        "review": "왜들 그러시나",
+        "date": "09.07.28",
+        "rating": "10",
+        "author": "jiun****",
+        "review_id": "3676298",
+        "movie_id": "46776"
+    },
+    {
+        "review": "초반 너무 루즈함..싸이코와 싸우는건 잠깐..무섭다기 보다는 기분나쁜 영화",
+        "date": "09.07.10",
+        "rating": "4",
+        "author": "yuki****",
+        "review_id": "3621004",
+        "movie_id": "46776"
+    },
+    {
+        "review": "개봉안하고 비디오로 보기좋은영화",
+        "date": "09.07.09",
+        "rating": "1",
+        "author": "subt****",
+        "review_id": "3619768",
+        "movie_id": "46776"
+    },
+    {
+        "review": "쓰레기",
+        "date": "09.06.30",
+        "rating": "1",
+        "author": "eyeb****",
+        "review_id": "3601779",
+        "movie_id": "46776"
+    },
+    {
+        "review": "굿",
+        "date": "09.06.08",
+        "rating": "10",
+        "author": "kore****",
+        "review_id": "3553790",
+        "movie_id": "46776"
+    },
+    {
+        "review": "갇힌 엘리베이터에서 싸이코패스... 솔직히 귀신나오는거보다 사람이미치는게 더무셔",
+        "date": "09.05.31",
+        "rating": "10",
+        "author": "morb****",
+        "review_id": "3534908",
+        "movie_id": "46776"
+    },
+    {
+        "review": "스릴과 공포따윈 없다",
+        "date": "09.05.21",
+        "rating": "1",
+        "author": "hjdh****",
+        "review_id": "3511791",
+        "movie_id": "46776"
+    },
+    {
+        "review": "재미없다진짜 보지마 .평점이 낮은이유가잇다. 리얼 좆망",
+        "date": "09.05.17",
+        "rating": "1",
+        "author": "kgh1****",
+        "review_id": "3501721",
+        "movie_id": "46776"
+    },
+    {
+        "review": "특이한거 이상이하두 없는... 얘들아 미안하다...",
+        "date": "09.05.12",
+        "rating": "2",
+        "author": "emat****",
+        "review_id": "3489595",
+        "movie_id": "46776"
+    },
+    {
+        "review": "과거장면이 자주 등장하는데 안하느니만 못하다",
+        "date": "09.05.08",
+        "rating": "4",
+        "author": "lcs1****",
+        "review_id": "3478340",
+        "movie_id": "46776"
+    },
+    {
+        "review": "진부하고 클리쉐한",
+        "date": "09.05.07",
+        "rating": "2",
+        "author": "erhe****",
+        "review_id": "3477646",
+        "movie_id": "46776"
+    },
+    {
+        "review": "평점이 너무높다. 극장가서도 보고도 5점이나 줄껀지 생각해봐라.",
+        "date": "09.05.07",
+        "rating": "2",
+        "author": "cool****",
+        "review_id": "3477573",
+        "movie_id": "46776"
+    },
+    {
+        "review": "괜찮은 소재를 가지고 이렇게 지루하게 만들다니... 전체적인 통일성이 많이 부족함",
+        "date": "09.05.05",
+        "rating": "4",
+        "author": "sinb****",
+        "review_id": "3469582",
+        "movie_id": "46776"
+    },
+    {
+        "review": "영화에 수시로 등장하는, 각 캐릭터들의 곁다리 이야기들이 흥미롭지 못하고 루즈하다",
+        "date": "09.05.04",
+        "rating": "2",
+        "author": "gall****",
+        "review_id": "3464492",
+        "movie_id": "46776"
+    },
+    {
+        "review": "단편영화로 만들었다면 더 잼있었겠다 지루해.....",
+        "date": "09.05.03",
+        "rating": "4",
+        "author": "psyc****",
+        "review_id": "3463164",
+        "movie_id": "46776"
+    },
+    {
+        "review": "클리셰 난무. 안봐도 무방한 작품.",
+        "date": "09.05.02",
+        "rating": "4",
+        "author": "linu****",
+        "review_id": "3458905",
+        "movie_id": "46776"
+    },
+    {
+        "review": "이럴수가..완전 지루해..",
+        "date": "09.05.02",
+        "rating": "1",
+        "author": "ayas****",
+        "review_id": "3456564",
+        "movie_id": "46776"
+    },
+    {
+        "review": "좀 지루하다..",
+        "date": "09.05.01",
+        "rating": "4",
+        "author": "mk04****",
+        "review_id": "3454364",
+        "movie_id": "46776"
+    },
+    {
+        "review": "엘리베이터 주인공이 나라고 생각해보면 너무 무서운 영화",
+        "date": "09.03.05",
+        "rating": "9",
+        "author": "red_****",
+        "review_id": "3348419",
+        "movie_id": "46776"
+    },
+    {
+        "review": "나름 볼만한데..",
+        "date": "09.01.08",
+        "rating": "10",
+        "author": "me27****",
+        "review_id": "3202021",
+        "movie_id": "46776"
+    },
+    {
+        "review": "근데 엘리베이터에서 살인짓하면 적어도 30초안엔 싹쓸이 아닌가요..? ..~",
+        "date": "08.11.29",
+        "rating": "10",
+        "author": "esan****",
+        "review_id": "3079057",
+        "movie_id": "46776"
+    },
+    {
+        "review": "가끔은 초코바 하나에 사람이 빡?돌기도 한다.",
+        "date": "08.09.07",
+        "rating": "4",
+        "author": "aiue****",
+        "review_id": "2929232",
+        "movie_id": "46776"
+    },
+    {
+        "review": "존나 미국에 있던친구가 영화 보내줘서 봤는데 이영화였음 ㅋㅋ 아 진짜",
+        "date": "08.09.07",
+        "rating": "10",
+        "author": "audr****",
+        "review_id": "2927846",
+        "movie_id": "46776"
+    }
+]

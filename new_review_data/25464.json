@@ -1,0 +1,66 @@
+﻿[
+    {
+        "review": "음악과 영상의 조화로움",
+        "date": "17.06.09",
+        "rating": "10",
+        "author": "만성피로(rand****)",
+        "review_id": "12707381",
+        "movie_id": "25464"
+    },
+    {
+        "review": "자신만의 세계가 있는 것 같은데, 별로 들어가보고 싶진 않다.",
+        "date": "16.12.12",
+        "rating": "2",
+        "author": "cont****",
+        "review_id": "12039049",
+        "movie_id": "25464"
+    },
+    {
+        "review": "당대에도 욕먹었을 법한 개연성과 서투른 연출력.",
+        "date": "16.11.19",
+        "rating": "3",
+        "author": "객관성(hono****)",
+        "review_id": "11969845",
+        "movie_id": "25464"
+    },
+    {
+        "review": "초등학교2학년때 극장에서본영화 ㅋㅋ",
+        "date": "06.07.05",
+        "rating": "10",
+        "author": "qwer****",
+        "review_id": "871620",
+        "movie_id": "25464"
+    },
+    {
+        "review": "강간당한 여자에 대한 뻔한 신화. 스릴러라 부르기 민망하지.",
+        "date": "06.06.11",
+        "rating": "2",
+        "author": "gyur****",
+        "review_id": "839847",
+        "movie_id": "25464"
+    },
+    {
+        "review": "이제까지 보지 못한 영화...!! 특이한 영화네여^^",
+        "date": "04.10.19",
+        "rating": "10",
+        "author": "arie****",
+        "review_id": "128751",
+        "movie_id": "25464"
+    },
+    {
+        "review": "소재도 독특하고 엽기적이고 흥미진진한...",
+        "date": "04.10.05",
+        "rating": "9",
+        "author": "noir****",
+        "review_id": "120678",
+        "movie_id": "25464"
+    },
+    {
+        "review": "음악 미술품...",
+        "date": "04.07.09",
+        "rating": "1",
+        "author": "rlac****",
+        "review_id": "67519",
+        "movie_id": "25464"
+    }
+]

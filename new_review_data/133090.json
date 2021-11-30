@@ -1,0 +1,82 @@
+﻿[
+    {
+        "review": "첨부터 끝까지 조마조마해요",
+        "date": "19.07.10",
+        "rating": "10",
+        "author": "OY(oyou****)",
+        "review_id": "15889058",
+        "movie_id": "133090"
+    },
+    {
+        "review": "스릴러 영화 중 제일 독창적이고 재밌네요",
+        "date": "19.03.22",
+        "rating": "10",
+        "author": "jaya****",
+        "review_id": "15436107",
+        "movie_id": "133090"
+    },
+    {
+        "review": "죽기 전 봐야 할 무비참신한 독일 영화",
+        "date": "19.01.03",
+        "rating": "10",
+        "author": "순수(miji****)",
+        "review_id": "15080853",
+        "movie_id": "133090"
+    },
+    {
+        "review": "영상,스토리,음악..모두3류의 정석.시간낭비 전파낭비",
+        "date": "18.09.30",
+        "rating": "2",
+        "author": "9710****",
+        "review_id": "14681400",
+        "movie_id": "133090"
+    },
+    {
+        "review": "노잼 시간아깝다...",
+        "date": "18.09.29",
+        "rating": "1",
+        "author": "regu****",
+        "review_id": "14677469",
+        "movie_id": "133090"
+    },
+    {
+        "review": "3류영화.평점 내리자",
+        "date": "17.12.17",
+        "rating": "1",
+        "author": "vene(iris****)",
+        "review_id": "13498767",
+        "movie_id": "133090"
+    },
+    {
+        "review": "평점 올려버리기 ~ 10자 채우기힘드네",
+        "date": "17.06.02",
+        "rating": "10",
+        "author": "Breeze(geon****)",
+        "review_id": "12674557",
+        "movie_id": "133090"
+    },
+    {
+        "review": "3명이 평점을 줬는데 왜 2명 밖에 없지ㅋ",
+        "date": "17.04.09",
+        "rating": "10",
+        "author": "이유진(exof****)",
+        "review_id": "12494176",
+        "movie_id": "133090"
+    },
+    {
+        "review": "겁나 재미없어 완전저예산 싸구려 x후진 영화",
+        "date": "15.09.13",
+        "rating": "1",
+        "author": "엄마사랑(thef****)",
+        "review_id": "10327485",
+        "movie_id": "133090"
+    },
+    {
+        "review": "남배우 비주얼에 10점",
+        "date": "15.05.29",
+        "rating": "10",
+        "author": "가나달(cres****)",
+        "review_id": "9959077",
+        "movie_id": "133090"
+    }
+]

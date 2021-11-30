@@ -1,0 +1,562 @@
+﻿[
+    {
+        "review": "여주 너무 예뻐....사랑합니다",
+        "date": "19.10.21",
+        "rating": "10",
+        "author": "얄개(balb****)",
+        "review_id": "16290773",
+        "movie_id": "32698"
+    },
+    {
+        "review": "동물 흉내가 재밌냐 더럽고 밥 맛 떨어진다",
+        "date": "19.02.01",
+        "rating": "1",
+        "author": "pooq(popp****)",
+        "review_id": "15202165",
+        "movie_id": "32698"
+    },
+    {
+        "review": "롭슈나이더  너무 재미짐 ㅎㅎ",
+        "date": "18.07.17",
+        "rating": "10",
+        "author": "미스피츠(misf****)",
+        "review_id": "14314275",
+        "movie_id": "32698"
+    },
+    {
+        "review": "가족과 그리고 연인과 다함께 즐겁고 재미있게 볼수 있던 영화",
+        "date": "17.02.25",
+        "rating": "10",
+        "author": "레몬테이블(ljs1****)",
+        "review_id": "12356653",
+        "movie_id": "32698"
+    },
+    {
+        "review": "갑시다 롭슈나이더 최고의 코미디언",
+        "date": "15.01.11",
+        "rating": "10",
+        "author": "diinggok(skae****)",
+        "review_id": "9584085",
+        "movie_id": "32698"
+    },
+    {
+        "review": "롭 슈나이더 코미디는 글쎄. 아담 샌들러와 함께 했을 때는 볼만한 듯",
+        "date": "14.10.19",
+        "rating": "1",
+        "author": "미스터촤(jjaj****)",
+        "review_id": "9301785",
+        "movie_id": "32698"
+    },
+    {
+        "review": "나에게 최고의 코미디 영화",
+        "date": "14.02.02",
+        "rating": "10",
+        "author": "쇼니(newn****)",
+        "review_id": "8466074",
+        "movie_id": "32698"
+    },
+    {
+        "review": "어이없고 끔찍하고 병맛인 영화. 뭐야이게!!",
+        "date": "11.08.25",
+        "rating": "3",
+        "author": "hyom****",
+        "review_id": "5686691",
+        "movie_id": "32698"
+    },
+    {
+        "review": "자동차 추락하다가 끝에 바위떨어질때 좀 웃겼다",
+        "date": "11.08.14",
+        "rating": "4",
+        "author": "dbzh****",
+        "review_id": "5647620",
+        "movie_id": "32698"
+    },
+    {
+        "review": "말이필요없다 웃을래면 봐라,,,,,,,,,,",
+        "date": "11.02.20",
+        "rating": "10",
+        "author": "alse****",
+        "review_id": "5259923",
+        "movie_id": "32698"
+    },
+    {
+        "review": "이거 구하기 힘들었는데 잼있음 ㅋㅋ",
+        "date": "11.01.18",
+        "rating": "10",
+        "author": "jail****",
+        "review_id": "5166532",
+        "movie_id": "32698"
+    },
+    {
+        "review": "오랜만에 박장대소하면서 본 영화ㅋㅋ",
+        "date": "10.12.26",
+        "rating": "10",
+        "author": "rmhy****",
+        "review_id": "5088237",
+        "movie_id": "32698"
+    },
+    {
+        "review": "진짜 재밌다 ㅋㅋㅋㅋ동물효과음쩔어 ㅋㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "10.12.18",
+        "rating": "10",
+        "author": "roeh****",
+        "review_id": "5062668",
+        "movie_id": "32698"
+    },
+    {
+        "review": "콜린 하스겔의 처음이자 마지막 작품ㅋ 즐겁고 마지막이라 아쉬운",
+        "date": "10.11.09",
+        "rating": "9",
+        "author": "r_ed****",
+        "review_id": "4947595",
+        "movie_id": "32698"
+    },
+    {
+        "review": "재밋어 ㅋㅋㅋㅋㅋㅋㅋ",
+        "date": "10.06.13",
+        "rating": "10",
+        "author": "o___****",
+        "review_id": "4563314",
+        "movie_id": "32698"
+    },
+    {
+        "review": "아나 어디서보냐 ㅠㅠ",
+        "date": "10.02.02",
+        "rating": "10",
+        "author": "jdud****",
+        "review_id": "4237940",
+        "movie_id": "32698"
+    },
+    {
+        "review": "어디서보죠??? 아나;",
+        "date": "10.01.16",
+        "rating": "10",
+        "author": "rehe****",
+        "review_id": "4176268",
+        "movie_id": "32698"
+    },
+    {
+        "review": "이건뭐 알지않는가 이런스탈 좋아하면 최고다최고 ㅋㅋㅋ",
+        "date": "09.10.17",
+        "rating": "10",
+        "author": "love****",
+        "review_id": "3898357",
+        "movie_id": "32698"
+    },
+    {
+        "review": "딱.. 아담샌들러 수준의 코미미디",
+        "date": "08.09.28",
+        "rating": "10",
+        "author": "newj****",
+        "review_id": "2972229",
+        "movie_id": "32698"
+    },
+    {
+        "review": "독특하긴 한데 조금 뭔가 억지가",
+        "date": "08.02.16",
+        "rating": "9",
+        "author": "cha1****",
+        "review_id": "2449441",
+        "movie_id": "32698"
+    },
+    {
+        "review": "볼만했다",
+        "date": "08.01.11",
+        "rating": "10",
+        "author": "tpdm****",
+        "review_id": "2316471",
+        "movie_id": "32698"
+    },
+    {
+        "review": "롭슈나이더 짱",
+        "date": "07.10.26",
+        "rating": "10",
+        "author": "slal****",
+        "review_id": "2111933",
+        "movie_id": "32698"
+    },
+    {
+        "review": "재밌네...",
+        "date": "07.03.25",
+        "rating": "10",
+        "author": "ymjp****",
+        "review_id": "1553396",
+        "movie_id": "32698"
+    },
+    {
+        "review": "독특하군",
+        "date": "07.03.25",
+        "rating": "10",
+        "author": "capj****",
+        "review_id": "1553394",
+        "movie_id": "32698"
+    },
+    {
+        "review": "독특하군",
+        "date": "07.03.25",
+        "rating": "10",
+        "author": "capj****",
+        "review_id": "1553392",
+        "movie_id": "32698"
+    },
+    {
+        "review": "조낸 잼없어;; 오소리 젖에서 1번 웃엇다;;",
+        "date": "07.02.24",
+        "rating": "1",
+        "author": "x_sp****",
+        "review_id": "1498511",
+        "movie_id": "32698"
+    },
+    {
+        "review": "최고는 아니지만 정말 재미있었다. 듀스비갈로보다 더 나은데?",
+        "date": "07.01.07",
+        "rating": "9",
+        "author": "perl****",
+        "review_id": "1365365",
+        "movie_id": "32698"
+    },
+    {
+        "review": "코믹하고 엽기적인 영화... good~ ㅋㅋ",
+        "date": "07.01.02",
+        "rating": "9",
+        "author": "qwer****",
+        "review_id": "1350736",
+        "movie_id": "32698"
+    },
+    {
+        "review": "OOO줄알았다 ㅋㅋㅋㅋㅋ꼭보세여",
+        "date": "06.12.24",
+        "rating": "10",
+        "author": "ddko****",
+        "review_id": "1319269",
+        "movie_id": "32698"
+    },
+    {
+        "review": "존나 웃겨 ㅋㅋㅋ",
+        "date": "06.12.04",
+        "rating": "10",
+        "author": "ghsd****",
+        "review_id": "1266925",
+        "movie_id": "32698"
+    },
+    {
+        "review": "이거 진짜 웃긴다.ㅋㅋㅋㅋ롭 슈나이더 동물흉내 너무 웃긴다.ㅋ",
+        "date": "06.10.30",
+        "rating": "10",
+        "author": "onga****",
+        "review_id": "1208007",
+        "movie_id": "32698"
+    },
+    {
+        "review": "정말 웃기다",
+        "date": "06.08.01",
+        "rating": "10",
+        "author": "zeed****",
+        "review_id": "952562",
+        "movie_id": "32698"
+    },
+    {
+        "review": "제길.. 제대로 낚였군",
+        "date": "06.07.10",
+        "rating": "4",
+        "author": "dodo****",
+        "review_id": "882624",
+        "movie_id": "32698"
+    },
+    {
+        "review": "대박",
+        "date": "06.07.01",
+        "rating": "10",
+        "author": "aniy****",
+        "review_id": "865397",
+        "movie_id": "32698"
+    },
+    {
+        "review": "우체통장면에서 대박웃었다 ㅋㅋ",
+        "date": "06.05.14",
+        "rating": "10",
+        "author": "kill****",
+        "review_id": "799327",
+        "movie_id": "32698"
+    },
+    {
+        "review": "롭 슈나이더 혼자만으로 영화를 지탱하긴 힘들었다",
+        "date": "06.04.28",
+        "rating": "1",
+        "author": "okjo****",
+        "review_id": "778488",
+        "movie_id": "32698"
+    },
+    {
+        "review": "너무나도 우리에게 익숙한, 지나친 환상들에 절은 영화",
+        "date": "06.02.24",
+        "rating": "2",
+        "author": "rjvn****",
+        "review_id": "689288",
+        "movie_id": "32698"
+    },
+    {
+        "review": "이 영화 진짜 재밌음 안본분 보시길.",
+        "date": "06.02.13",
+        "rating": "10",
+        "author": "xhdc****",
+        "review_id": "668946",
+        "movie_id": "32698"
+    },
+    {
+        "review": "새벽에 이거 보고 존내 웃었음 ㅋㅋㅋ",
+        "date": "06.02.13",
+        "rating": "10",
+        "author": "jdu0****",
+        "review_id": "668436",
+        "movie_id": "32698"
+    },
+    {
+        "review": "여기나오는 여자 완전 죤내 김경란이다",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "rlax****",
+        "review_id": "666396",
+        "movie_id": "32698"
+    },
+    {
+        "review": "죤나 코믹 이야기 젼내잼써",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "hoky****",
+        "review_id": "665447",
+        "movie_id": "32698"
+    },
+    {
+        "review": "콜린 하스겔...첫눈에 뿅감 처음으로 매력이란걸 느껴봤습",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "rbtj****",
+        "review_id": "665279",
+        "movie_id": "32698"
+    },
+    {
+        "review": "엄청 재밋네요 최고 ~  이거 흥행에 성공 ~?>???",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "ksj1****",
+        "review_id": "664518",
+        "movie_id": "32698"
+    },
+    {
+        "review": "KBS에서 보고 왔습니다. 재미있고 여배우 앞으로도 활약기대",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "xoru****",
+        "review_id": "664237",
+        "movie_id": "32698"
+    },
+    {
+        "review": "님들아다시볼수있는곳을아시다면ghdvy1200으로메일좀보내주세요",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "emfp****",
+        "review_id": "664173",
+        "movie_id": "32698"
+    },
+    {
+        "review": "어디서다시볼수없을까요 공짜로 다시보고싶은데ㅠ.ㅠ",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "ghdv****",
+        "review_id": "664158",
+        "movie_id": "32698"
+    },
+    {
+        "review": "한마디로 '재미있다'라는 말밖에 할말이없네요ㅎㅎ",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "qudr****",
+        "review_id": "664139",
+        "movie_id": "32698"
+    },
+    {
+        "review": "방금봤다.워~이렇게웃긴코미디처음이다.ㅋㅋㅋㅋ",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "kean****",
+        "review_id": "664113",
+        "movie_id": "32698"
+    },
+    {
+        "review": "정말 재밌다!!!! 코미디영화에 이보다 더 좋은 말이 어디있을까",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "rleo****",
+        "review_id": "664112",
+        "movie_id": "32698"
+    },
+    {
+        "review": "롭 슈나이더 존나 개웃겨 ㅋㅋㅋㅋㅋㅋ",
+        "date": "06.02.12",
+        "rating": "10",
+        "author": "reew****",
+        "review_id": "663904",
+        "movie_id": "32698"
+    },
+    {
+        "review": "정말 재미있는 코미디의 진수",
+        "date": "05.12.26",
+        "rating": "9",
+        "author": "kws7****",
+        "review_id": "531551",
+        "movie_id": "32698"
+    },
+    {
+        "review": "ㅋㅋㅋㅋㅋ 넘 재밌었습니다 /ㅁ/",
+        "date": "05.11.21",
+        "rating": "10",
+        "author": "song****",
+        "review_id": "480915",
+        "movie_id": "32698"
+    },
+    {
+        "review": "헉 이게 반전영화였다니.",
+        "date": "05.11.12",
+        "rating": "10",
+        "author": "oddi****",
+        "review_id": "471575",
+        "movie_id": "32698"
+    },
+    {
+        "review": "순간순간 나타나는 특별한부위의 동물들의 발작?!",
+        "date": "05.10.17",
+        "rating": "9",
+        "author": "llcm****",
+        "review_id": "445989",
+        "movie_id": "32698"
+    },
+    {
+        "review": "음 왜 봤을까? 예고편이 다 -",
+        "date": "05.09.22",
+        "rating": "3",
+        "author": "ch1s****",
+        "review_id": "417815",
+        "movie_id": "32698"
+    },
+    {
+        "review": "세상에 둘 도 없는 배우.억지스럽지않아 더 웃긴표정연기",
+        "date": "05.09.20",
+        "rating": "10",
+        "author": "82ba****",
+        "review_id": "413302",
+        "movie_id": "32698"
+    },
+    {
+        "review": "기분을 풀어주는 즐거운 영화, 콜린하스겔 아름다움",
+        "date": "05.09.04",
+        "rating": "9",
+        "author": "ggan****",
+        "review_id": "392549",
+        "movie_id": "32698"
+    },
+    {
+        "review": "여러번 봐도 재밌는 영화..",
+        "date": "05.08.16",
+        "rating": "9",
+        "author": "onio****",
+        "review_id": "369899",
+        "movie_id": "32698"
+    },
+    {
+        "review": "롭최고야~~~~~~~~~~~~~~",
+        "date": "05.08.02",
+        "rating": "10",
+        "author": "hear****",
+        "review_id": "347147",
+        "movie_id": "32698"
+    },
+    {
+        "review": "콜린하스겔은 내꼬임 ㅎ 넘보지마 ㅡ _ㅡ",
+        "date": "05.07.12",
+        "rating": "10",
+        "author": "zp48****",
+        "review_id": "320304",
+        "movie_id": "32698"
+    },
+    {
+        "review": "콜린한테 반했어요 ㅋ",
+        "date": "05.07.11",
+        "rating": "10",
+        "author": "blue****",
+        "review_id": "318833",
+        "movie_id": "32698"
+    },
+    {
+        "review": "짐캐리와는 또다른 롭슈나이더의 매력...신선한 소재 굿~~~",
+        "date": "05.07.02",
+        "rating": "10",
+        "author": "tekk****",
+        "review_id": "310731",
+        "movie_id": "32698"
+    },
+    {
+        "review": "너무 재미있었던 영화 ㅋ",
+        "date": "05.06.24",
+        "rating": "10",
+        "author": "boaj****",
+        "review_id": "305619",
+        "movie_id": "32698"
+    },
+    {
+        "review": "ㅋㅋ",
+        "date": "05.06.16",
+        "rating": "10",
+        "author": "djqj****",
+        "review_id": "300693",
+        "movie_id": "32698"
+    },
+    {
+        "review": "콜린하스겔은 출연 많이 했으면 좋겠네요[개인적으로]",
+        "date": "05.06.06",
+        "rating": "10",
+        "author": "dx1d****",
+        "review_id": "294583",
+        "movie_id": "32698"
+    },
+    {
+        "review": "콜린 하스겔 은 내꺼다 ㅋㅋㅋ",
+        "date": "05.03.13",
+        "rating": "10",
+        "author": "susu****",
+        "review_id": "240231",
+        "movie_id": "32698"
+    },
+    {
+        "review": "남자들은 핫칙보다 애니멀이 재밋다.",
+        "date": "05.02.26",
+        "rating": "10",
+        "author": "lee2****",
+        "review_id": "230531",
+        "movie_id": "32698"
+    },
+    {
+        "review": "진짜 코메디영화로 즐기기엔 딱..보면서계속배꼽잡았다,여자두이쁘다ㅋㅋ",
+        "date": "04.07.29",
+        "rating": "9",
+        "author": "meta****",
+        "review_id": "78922",
+        "movie_id": "32698"
+    },
+    {
+        "review": "왜 만들었을까...",
+        "date": "04.03.21",
+        "rating": "1",
+        "author": "cjsl****",
+        "review_id": "30442",
+        "movie_id": "32698"
+    },
+    {
+        "review": "한국저질영화의 특권인 별1개짜리를 이 영화에 바친다!",
+        "date": "04.03.19",
+        "rating": "1",
+        "author": "jtot****",
+        "review_id": "29882",
+        "movie_id": "32698"
+    }
+]

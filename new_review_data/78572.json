@@ -1,0 +1,426 @@
+﻿[
+    {
+        "review": "교육의 진정한 의미와 배움에 대해 고찰해 볼 수 있었던 영화.",
+        "date": "19.11.18",
+        "rating": "10",
+        "author": "김수연(ksy3****)",
+        "review_id": "16410326",
+        "movie_id": "78572"
+    },
+    {
+        "review": "시작부터 이야기는 뻔하겠다 생각이 들었지만 잔잔히 따뜻한 감동을 주는 영화. 배움은 얼마나 소중하고 의미있는가.",
+        "date": "19.04.14",
+        "rating": "9",
+        "author": "희망(dene****)",
+        "review_id": "15512142",
+        "movie_id": "78572"
+    },
+    {
+        "review": "감동이네요.. 독립투사의 삺!",
+        "date": "19.03.22",
+        "rating": "10",
+        "author": "대학지기(ldur****)",
+        "review_id": "15435037",
+        "movie_id": "78572"
+    },
+    {
+        "review": "많은걸 느꼈어요. 실화라니.. 뭔가 제 자신이 부끄러워 지네요 ㅠㅠ",
+        "date": "17.05.24",
+        "rating": "10",
+        "author": "배현주(bhj0****)",
+        "review_id": "12638921",
+        "movie_id": "78572"
+    },
+    {
+        "review": "하 힐링된다,. 이런영화는 정말 많이 만들어져야된다ㅜㅜㅜ",
+        "date": "17.05.10",
+        "rating": "10",
+        "author": "러브로지(8lov****)",
+        "review_id": "12594528",
+        "movie_id": "78572"
+    },
+    {
+        "review": "존경합니다. 그리고 응원합니다.",
+        "date": "17.01.01",
+        "rating": "10",
+        "author": "song****",
+        "review_id": "12111335",
+        "movie_id": "78572"
+    },
+    {
+        "review": "우리나라 생각이 ..아이들과 할아버지 때문에 눈물이 핑 ...ㅜㅜ",
+        "date": "16.07.31",
+        "rating": "9",
+        "author": "psh3****",
+        "review_id": "11513329",
+        "movie_id": "78572"
+    },
+    {
+        "review": "너무 좋은 영화!! 꼭 한번쯤 보길 추천하고 싶다...ㅎㅎ",
+        "date": "16.04.04",
+        "rating": "10",
+        "author": "이은지(yomi****)",
+        "review_id": "11013602",
+        "movie_id": "78572"
+    },
+    {
+        "review": "과거와 현재, 그리고 미래를 이야기한다.",
+        "date": "15.09.16",
+        "rating": "10",
+        "author": "sury****",
+        "review_id": "10334167",
+        "movie_id": "78572"
+    },
+    {
+        "review": "좋은 영화네요. 감동깊게 봤어요.",
+        "date": "15.09.14",
+        "rating": "10",
+        "author": "Gayoung(soul****)",
+        "review_id": "10330783",
+        "movie_id": "78572"
+    },
+    {
+        "review": "악랄한 피탄 속에서도 주인공 마루게는 그의 신념을 굽히지 않았다... 나는 과연 할 수 있을까..,",
+        "date": "15.08.11",
+        "rating": "10",
+        "author": "Polaris(sunr****)",
+        "review_id": "10215109",
+        "movie_id": "78572"
+    },
+    {
+        "review": "정말 좋은 영화  과거를 잊지 말고 지내자",
+        "date": "15.07.13",
+        "rating": "10",
+        "author": "spdl****",
+        "review_id": "10101291",
+        "movie_id": "78572"
+    },
+    {
+        "review": "정말 좋은 영화였습니다.",
+        "date": "15.05.27",
+        "rating": "10",
+        "author": "anonymous(plor****)",
+        "review_id": "9954110",
+        "movie_id": "78572"
+    },
+    {
+        "review": "나는 그럴 수 있을까.. 대단하다. 공부라는 게 원래 저런 것일텐데.",
+        "date": "15.03.12",
+        "rating": "10",
+        "author": "dresden(dres****)",
+        "review_id": "9774118",
+        "movie_id": "78572"
+    },
+    {
+        "review": "영화보다 더한 실화 무거운영화",
+        "date": "15.03.07",
+        "rating": "10",
+        "author": "24시간온천탕(akse****)",
+        "review_id": "9763347",
+        "movie_id": "78572"
+    },
+    {
+        "review": "과거를 통해 배우고 더 나은 미래를 개척해 가는 현재를 사는 이들의 리얼 스토리~~~",
+        "date": "15.01.16",
+        "rating": "10",
+        "author": "홀리러브(hnar****)",
+        "review_id": "9602758",
+        "movie_id": "78572"
+    },
+    {
+        "review": "신념과 열정을 일깨워준 영화.우리 독립투사들이 다시금 생각나며 눈물이 끊이질 않았네요.",
+        "date": "14.02.27",
+        "rating": "10",
+        "author": "bjmj****",
+        "review_id": "8542008",
+        "movie_id": "78572"
+    },
+    {
+        "review": "Learning never ends.... 배움에대한영화이기도하지만 getting better하려는 고귀한 뜻을 포기하지않고 끝까지 이루어내는것이 갖는 가치에대한영화. 과거와 현재와 미래를 어떻게볼것인지에 대한 영화.",
+        "date": "13.11.03",
+        "rating": "9",
+        "author": "suam****",
+        "review_id": "8111353",
+        "movie_id": "78572"
+    },
+    {
+        "review": "너무 잼있어요",
+        "date": "13.05.08",
+        "rating": "10",
+        "author": "ggan****",
+        "review_id": "7516151",
+        "movie_id": "78572"
+    },
+    {
+        "review": ".",
+        "date": "12.12.30",
+        "rating": "9",
+        "author": "njel****",
+        "review_id": "7064116",
+        "movie_id": "78572"
+    },
+    {
+        "review": "영화 한편으로 공부를 한 듯한 느낌이다. 배울 점이 많았던 영화 ...",
+        "date": "12.11.20",
+        "rating": "10",
+        "author": "사라(sala****)",
+        "review_id": "6908778",
+        "movie_id": "78572"
+    },
+    {
+        "review": "분단의 아픔과 전쟁의 폐허. 단지 마루게 할아버지가 학교를 다닌다는 초점보다 케냐라는 나라에 대해 제대로 알게된 영화! 실화 라서 그런지 더 마음에 와닿았던 영화..강츄",
+        "date": "12.10.23",
+        "rating": "10",
+        "author": "윤뽕(ymki****)",
+        "review_id": "6822470",
+        "movie_id": "78572"
+    },
+    {
+        "review": "완전 감동! 강추~",
+        "date": "12.10.18",
+        "rating": "10",
+        "author": "mariposa(tkdt****)",
+        "review_id": "6809620",
+        "movie_id": "78572"
+    },
+    {
+        "review": "실화라서 실감나는... 케냐의 역사가 우리나라와 비슷해서 더더욱 실감나는 그런 영화.. 영화 시작부터 뭉클했는데 결국 코끝이 찡하게 만드는 영화였다",
+        "date": "12.10.09",
+        "rating": "10",
+        "author": "오늘밤새(inst****)",
+        "review_id": "6777682",
+        "movie_id": "78572"
+    },
+    {
+        "review": "정말 좋은 영화! 과거를 잊지 말고 배워내자!",
+        "date": "12.09.29",
+        "rating": "10",
+        "author": "이상윤(simo****)",
+        "review_id": "6742255",
+        "movie_id": "78572"
+    },
+    {
+        "review": "굿",
+        "date": "12.09.29",
+        "rating": "10",
+        "author": "mool****",
+        "review_id": "6742068",
+        "movie_id": "78572"
+    },
+    {
+        "review": "많은 생각을 하게 하네요",
+        "date": "12.09.27",
+        "rating": "10",
+        "author": "도미노(bri2****)",
+        "review_id": "6736505",
+        "movie_id": "78572"
+    },
+    {
+        "review": "어린애들이 1점줬네. 아직 어려서 그래ㅋㅋ",
+        "date": "12.09.25",
+        "rating": "10",
+        "author": "달려라구급차(sin5****)",
+        "review_id": "6732868",
+        "movie_id": "78572"
+    },
+    {
+        "review": "볼만합니다.",
+        "date": "12.09.25",
+        "rating": "9",
+        "author": "물보라(hgdr****)",
+        "review_id": "6731171",
+        "movie_id": "78572"
+    },
+    {
+        "review": "two thumbs up!!!!!! so touching! so impressed!",
+        "date": "12.09.20",
+        "rating": "10",
+        "author": "debb****",
+        "review_id": "6715725",
+        "movie_id": "78572"
+    },
+    {
+        "review": "글쎄..난 별로던데..",
+        "date": "12.06.15",
+        "rating": "1",
+        "author": "yang****",
+        "review_id": "6392125",
+        "movie_id": "78572"
+    },
+    {
+        "review": "퍼스트 그레이더 잘봤네요",
+        "date": "12.05.29",
+        "rating": "10",
+        "author": "leti****",
+        "review_id": "6346148",
+        "movie_id": "78572"
+    },
+    {
+        "review": "퍼스트 그레이더 볼만합니다.",
+        "date": "12.05.29",
+        "rating": "10",
+        "author": "cedc****",
+        "review_id": "6346104",
+        "movie_id": "78572"
+    },
+    {
+        "review": "완전 만족.....가슴한편이 찡해지는",
+        "date": "12.05.29",
+        "rating": "10",
+        "author": "stdi****",
+        "review_id": "6345145",
+        "movie_id": "78572"
+    },
+    {
+        "review": "이거보려고 독립영화관까지 찾아감 ㅋㅋㅋ 결론은 대만족.",
+        "date": "12.05.27",
+        "rating": "10",
+        "author": "goso****",
+        "review_id": "6338065",
+        "movie_id": "78572"
+    },
+    {
+        "review": "영화속, 아프리카의 모습에서 보이는 우리나라의 모습",
+        "date": "12.05.27",
+        "rating": "10",
+        "author": "wka2****",
+        "review_id": "6338063",
+        "movie_id": "78572"
+    },
+    {
+        "review": "이런영화가 좋더라.",
+        "date": "12.05.27",
+        "rating": "10",
+        "author": "c1w8****",
+        "review_id": "6338059",
+        "movie_id": "78572"
+    },
+    {
+        "review": "인내가 필요한영화!,",
+        "date": "12.05.27",
+        "rating": "2",
+        "author": "won8****",
+        "review_id": "6337303",
+        "movie_id": "78572"
+    },
+    {
+        "review": "제가 이런장르를 별로 좋아하지 않아서 별로 제미없네요.....차라리 짱구가 더나군",
+        "date": "12.05.21",
+        "rating": "1",
+        "author": "amy6****",
+        "review_id": "6318645",
+        "movie_id": "78572"
+    },
+    {
+        "review": "교육은 희망입니다~~ 할아버지 완전 멋있어용 ^^ ㅎ",
+        "date": "12.05.21",
+        "rating": "9",
+        "author": "jung****",
+        "review_id": "6318234",
+        "movie_id": "78572"
+    },
+    {
+        "review": "꼭 보세요! 두번 보세요! 비록 보려고했던 영화가 시간안맞아서 본거지만 후회없었음!",
+        "date": "12.05.21",
+        "rating": "10",
+        "author": "dltk****",
+        "review_id": "6317807",
+        "movie_id": "78572"
+    },
+    {
+        "review": "역사란 이름의 폭력에 홀로 살아남은 자!",
+        "date": "12.05.20",
+        "rating": "9",
+        "author": "ssww****",
+        "review_id": "6315846",
+        "movie_id": "78572"
+    },
+    {
+        "review": "아, 정말 감동적이다...",
+        "date": "12.05.17",
+        "rating": "10",
+        "author": "nkkm****",
+        "review_id": "6305183",
+        "movie_id": "78572"
+    },
+    {
+        "review": "잔잔하지만 지루하지않고..억지스럽지 않게 감동을 주는 영화!!추천!!추천!!!",
+        "date": "12.05.07",
+        "rating": "9",
+        "author": "bram****",
+        "review_id": "6279587",
+        "movie_id": "78572"
+    },
+    {
+        "review": "기본적인 기회조차 박탈당하는 삶.포기없이 도전하는 모습이 너무 감동적이다.",
+        "date": "12.05.07",
+        "rating": "10",
+        "author": "love****",
+        "review_id": "6279581",
+        "movie_id": "78572"
+    },
+    {
+        "review": "오..실화였네요! 감동적이면서 웃기기도 하구.. 잼써용!! 강추!!",
+        "date": "12.05.07",
+        "rating": "9",
+        "author": "ting****",
+        "review_id": "6279568",
+        "movie_id": "78572"
+    },
+    {
+        "review": "감동적... 뭉클ㅜㅜ",
+        "date": "12.05.07",
+        "rating": "10",
+        "author": "sung****",
+        "review_id": "6279561",
+        "movie_id": "78572"
+    },
+    {
+        "review": "억지로 짜내는 감동 보단 이런 실화를 바탕으로한 영화가 진짜 감동이지",
+        "date": "12.05.07",
+        "rating": "10",
+        "author": "rorm****",
+        "review_id": "6279556",
+        "movie_id": "78572"
+    },
+    {
+        "review": "스토리가 탄탄한 영화.",
+        "date": "12.05.06",
+        "rating": "10",
+        "author": "nelr****",
+        "review_id": "6276522",
+        "movie_id": "78572"
+    },
+    {
+        "review": "끝까지 집중되는영화. 무한 감동과 많은 교훈을 주는 영화네요. 실화라서 더더욱.",
+        "date": "12.05.06",
+        "rating": "10",
+        "author": "snco****",
+        "review_id": "6276508",
+        "movie_id": "78572"
+    },
+    {
+        "review": "난 감동!",
+        "date": "12.05.06",
+        "rating": "10",
+        "author": "jinu****",
+        "review_id": "6276291",
+        "movie_id": "78572"
+    },
+    {
+        "review": "이런게 삶이 주는 감동이라는 거다",
+        "date": "12.05.05",
+        "rating": "10",
+        "author": "jang****",
+        "review_id": "6272379",
+        "movie_id": "78572"
+    },
+    {
+        "review": "감동이라는 단어는 이런 영화를 보고 말할 수 있다고 생각합니다",
+        "date": "11.09.12",
+        "rating": "10",
+        "author": "yeom****",
+        "review_id": "5726328",
+        "movie_id": "78572"
+    }
+]
