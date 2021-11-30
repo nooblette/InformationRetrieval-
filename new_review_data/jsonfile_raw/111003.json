@@ -1,0 +1,82 @@
+﻿[
+    {
+        "review": "최고의 오페라 ~~~~",
+        "date": "18.01.27",
+        "rating": "10",
+        "author": "PETER(choi****)",
+        "review_id": "13711081",
+        "movie_id": "111003"
+    },
+    {
+        "review": "기대이상!!명작이네요!",
+        "date": "17.11.04",
+        "rating": "10",
+        "author": "fuka****",
+        "review_id": "13358898",
+        "movie_id": "111003"
+    },
+    {
+        "review": "쥬쎄뻬 베르디 선생의 역작으로 공연 장소가 아레나 디 베로나라는 점에서 더욱 의미있었다.",
+        "date": "15.05.12",
+        "rating": "9",
+        "author": "merv****",
+        "review_id": "9912240",
+        "movie_id": "111003"
+    },
+    {
+        "review": "명작이라 10점 준다..",
+        "date": "14.12.02",
+        "rating": "10",
+        "author": "레니토이(534k****)",
+        "review_id": "9439868",
+        "movie_id": "111003"
+    },
+    {
+        "review": "오페라 영화중 최고의 명작",
+        "date": "14.05.19",
+        "rating": "10",
+        "author": "Luna(whee****)",
+        "review_id": "8747893",
+        "movie_id": "111003"
+    },
+    {
+        "review": "돈이랑시간낭비임 ㅋㅋ",
+        "date": "13.12.07",
+        "rating": "1",
+        "author": "가토(wjdg****)",
+        "review_id": "8195663",
+        "movie_id": "111003"
+    },
+    {
+        "review": "무대미술이 뛰어나다. 비올레타의 감성 폭발!",
+        "date": "13.07.22",
+        "rating": "10",
+        "author": "강민정(orch****)",
+        "review_id": "7774028",
+        "movie_id": "111003"
+    },
+    {
+        "review": "에르몬넬라 야호의 연기력이 돋보였던 오페라.  몰입이 너무 잘됐어요.",
+        "date": "13.07.16",
+        "rating": "10",
+        "author": "박님(ppar****)",
+        "review_id": "7748248",
+        "movie_id": "111003"
+    },
+    {
+        "review": "보고, 듣고, 즐기세요.",
+        "date": "13.07.13",
+        "rating": "10",
+        "author": "clie****",
+        "review_id": "7737443",
+        "movie_id": "111003"
+    },
+    {
+        "review": "명작영화",
+        "date": "13.07.11",
+        "rating": "10",
+        "author": "귀염둥이(dlwo****)",
+        "review_id": "7726388",
+        "movie_id": "111003"
+    }
+]

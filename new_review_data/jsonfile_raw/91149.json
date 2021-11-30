@@ -1,0 +1,74 @@
+﻿[
+    {
+        "review": "몰입력이 너무 좋아서 정말 재미있게 봤습니다",
+        "date": "20.03.15",
+        "rating": "10",
+        "author": "예콩(kate****)",
+        "review_id": "16778418",
+        "movie_id": "91149"
+    },
+    {
+        "review": "약간 현실성 없으나 매력적.",
+        "date": "16.09.27",
+        "rating": "8",
+        "author": "mj02****",
+        "review_id": "11794288",
+        "movie_id": "91149"
+    },
+    {
+        "review": "긴장감도 없고 별로...",
+        "date": "15.04.04",
+        "rating": "1",
+        "author": "크게봐(dbzh****)",
+        "review_id": "9826186",
+        "movie_id": "91149"
+    },
+    {
+        "review": "에밀리반캠프 발연기때문에 싫어연기 너무 못함",
+        "date": "12.11.21",
+        "rating": "1",
+        "author": "lhsz****",
+        "review_id": "6909745",
+        "movie_id": "91149"
+    },
+    {
+        "review": "5-6편까지 흡입력이 장난 아니였는데 그 후로 좀 떨어지긴 했어도올해 왕좌의게임시즌2와 함께 최고의 미드~~",
+        "date": "12.08.19",
+        "rating": "10",
+        "author": "lemi****",
+        "review_id": "6626342",
+        "movie_id": "91149"
+    },
+    {
+        "review": "재밋음",
+        "date": "12.07.06",
+        "rating": "10",
+        "author": "sgw0****",
+        "review_id": "6450549",
+        "movie_id": "91149"
+    },
+    {
+        "review": "매주 OCN에서 이거 보는 재미로 살아요~~정말 흥미진진!",
+        "date": "12.06.29",
+        "rating": "10",
+        "author": "psy9****",
+        "review_id": "6425702",
+        "movie_id": "91149"
+    },
+    {
+        "review": "yup it's sort of the common reveeeeenngge stuff but way higher than average XD",
+        "date": "12.02.24",
+        "rating": "10",
+        "author": "timi****",
+        "review_id": "6101986",
+        "movie_id": "91149"
+    },
+    {
+        "review": "It gets better and better as it goes on :D",
+        "date": "12.01.22",
+        "rating": "10",
+        "author": "preo****",
+        "review_id": "6009270",
+        "movie_id": "91149"
+    }
+]
