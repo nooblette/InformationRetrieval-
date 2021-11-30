@@ -1,0 +1,34 @@
+[
+	{
+		"review": "한 시간 보다가 도저히 못 버티고 잤다.",
+		"date": "21.04.11",
+		"rating": "2",
+		"author": "agne****",
+		"review_id": "17470193",
+		"movie_id": "144917"
+	},
+	{
+		"review": "",
+		"date": "20.04.01",
+		"rating": "4",
+		"author": "LEE KH(dlrl****",
+		"review_id": "16803158",
+		"movie_id": "144917"
+	},
+	{
+		"review": "에버튼 챔스가자!!! ㅋㅋ",
+		"date": "21.01.29",
+		"rating": "10",
+		"author": "car9****",
+		"review_id": "17359385",
+		"movie_id": "144917"
+	},
+	{
+		"review": "쨔스!쨔스!쨔스!쨔스!",
+		"date": "20.08.12",
+		"rating": "10",
+		"author": "daeg****",
+		"review_id": "17052653",
+		"movie_id": "144917"
+	}
+]

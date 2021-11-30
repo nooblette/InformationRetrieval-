@@ -1,0 +1,26 @@
+[
+	{
+		"review": "저또한 같은 이유 입니다",
+		"date": "20.07.18",
+		"rating": "10",
+		"author": "llim****",
+		"review_id": "16975701",
+		"movie_id": "195081"
+	},
+	{
+		"review": "아무도 없어서 저혼자 별점을 줍니다.",
+		"date": "20.07.17",
+		"rating": "10",
+		"author": "jdki****",
+		"review_id": "16974309",
+		"movie_id": "195081"
+	},
+	{
+		"review": "분위기 흐리기",
+		"date": "20.07.26",
+		"rating": "1",
+		"author": "tlfu****",
+		"review_id": "16997702",
+		"movie_id": "195081"
+	}
+]

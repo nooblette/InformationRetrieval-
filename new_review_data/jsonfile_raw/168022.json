@@ -1,0 +1,58 @@
+[
+	{
+		"review": "강아지들 너무 귀엽고 가볍게 보기에 재밌고 유쾌한영화",
+		"date": "20.08.15",
+		"rating": "10",
+		"author": "xnot****",
+		"review_id": "17060147",
+		"movie_id": "168022"
+	},
+	{
+		"review": "너무재밋게봤어요 이런영화좋아함",
+		"date": "20.07.14",
+		"rating": "10",
+		"author": "chlr****",
+		"review_id": "16961790",
+		"movie_id": "168022"
+	},
+	{
+		"review": "재밌어요  강추합니다!!!",
+		"date": "20.07.05",
+		"rating": "10",
+		"author": "lds0****",
+		"review_id": "16947376",
+		"movie_id": "168022"
+	},
+	{
+		"review": "",
+		"date": "21.06.24",
+		"rating": "10",
+		"author": "eksk****",
+		"review_id": "17563846",
+		"movie_id": "168022"
+	},
+	{
+		"review": "동물 더빙과 CG 는 도저히 참고 보기 힘들 정도이고, 유치하고 오글거리는 대사와 장면은 최악이다.",
+		"date": "21.02.15",
+		"rating": "3",
+		"author": "zxc1****",
+		"review_id": "17395371",
+		"movie_id": "168022"
+	},
+	{
+		"review": "",
+		"date": "20.07.11",
+		"rating": "1",
+		"author": "ehdu****",
+		"review_id": "16955962",
+		"movie_id": "168022"
+	},
+	{
+		"review": "가족이 함께 보기 좋습니다~",
+		"date": "20.07.06",
+		"rating": "8",
+		"author": "soha****",
+		"review_id": "16948834",
+		"movie_id": "168022"
+	}
+]

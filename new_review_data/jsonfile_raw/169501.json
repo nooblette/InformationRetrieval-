@@ -1,0 +1,42 @@
+[
+	{
+		"review": "",
+		"date": "19.11.13",
+		"rating": "3",
+		"author": "flow****",
+		"review_id": "16396394",
+		"movie_id": "169501"
+	},
+	{
+		"review": "Adventures on the Red Plane",
+		"date": "19.04.08",
+		"rating": "6",
+		"author": "래빗 홀(nimu****",
+		"review_id": "15497258",
+		"movie_id": "169501"
+	},
+	{
+		"review": "동화같아요. 재미있네요^^",
+		"date": "19.03.13",
+		"rating": "10",
+		"author": "rrs2****",
+		"review_id": "15407125",
+		"movie_id": "169501"
+	},
+	{
+		"review": "영어공부로 딱! 보시면 버립니다! 빠져 버립니다!",
+		"date": "18.03.17",
+		"rating": "10",
+		"author": "ghwh****",
+		"review_id": "13896945",
+		"movie_id": "169501"
+	},
+	{
+		"review": "잉글리시 교재로 추천합니다",
+		"date": "17.12.07",
+		"rating": "10",
+		"author": "soha****",
+		"review_id": "13465768",
+		"movie_id": "169501"
+	}
+]

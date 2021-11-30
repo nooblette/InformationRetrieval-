@@ -1,0 +1,90 @@
+[
+	{
+		"review": "3류 영화  돈 아깝다. 어휴...",
+		"date": "19.05.15",
+		"rating": "1",
+		"author": "kts1****",
+		"review_id": "15684672",
+		"movie_id": "183507"
+	},
+	{
+		"review": "대학에서 만든 저예산 독립영화인가?",
+		"date": "19.05.12",
+		"rating": "2",
+		"author": "smil****",
+		"review_id": "15672752",
+		"movie_id": "183507"
+	},
+	{
+		"review": "Oh. God... 안본눈 삽니다.",
+		"date": "19.05.11",
+		"rating": "2",
+		"author": "minb****",
+		"review_id": "15663962",
+		"movie_id": "183507"
+	},
+	{
+		"review": "연기 존나 아마츄어인가? 영상도 형편없구드라마야?",
+		"date": "20.06.03",
+		"rating": "1",
+		"author": "rott****",
+		"review_id": "16892430",
+		"movie_id": "183507"
+	},
+	{
+		"review": "OO 무슨 토크쇼 하나?  X나 지루.. 지금 케이블로 보는데 이게 뭐냐 싶네 ㅋ 보다가 잠시 짬을 내서 적어봤어 ㅋㅋ",
+		"date": "20.06.03",
+		"rating": "1",
+		"author": "shcg****",
+		"review_id": "16892412",
+		"movie_id": "183507"
+	},
+	{
+		"review": "저렴하게 영화 찍었네..  볼게 없다",
+		"date": "19.07.15",
+		"rating": "3",
+		"author": "adiv****",
+		"review_id": "15904255",
+		"movie_id": "183507"
+	},
+	{
+		"review": "아니 무슨 . . .  기가 막혀 말이 안 나와.  동네 전쟁놀이 찍은 영화도 아니고 . . .",
+		"date": "19.06.23",
+		"rating": "1",
+		"author": "pfei****",
+		"review_id": "15838404",
+		"movie_id": "183507"
+	},
+	{
+		"review": "몰입하고 본 내가 OO이다",
+		"date": "19.06.23",
+		"rating": "2",
+		"author": "dkwk****",
+		"review_id": "15834855",
+		"movie_id": "183507"
+	},
+	{
+		"review": "전쟁 영화는 언제나 좋아",
+		"date": "19.05.12",
+		"rating": "10",
+		"author": "kite****",
+		"review_id": "15672433",
+		"movie_id": "183507"
+	},
+	{
+		"review": "가항 치열했던 휘르트겐 숲 전투....good",
+		"date": "19.05.12",
+		"rating": "10",
+		"author": "rock****",
+		"review_id": "15672238",
+		"movie_id": "183507"
+	},
+	{
+		"review": "긴장감가지고 볼만 합니다.",
+		"date": "19.05.13",
+		"rating": "8",
+		"author": "fran****",
+		"review_id": "15675658",
+		"movie_id": "183507"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"review": "전형적인 c 급 타임 킬용...",
+		"date": "16.01.24",
+		"rating": "1",
+		"author": "j740****",
+		"review_id": "10771994",
+		"movie_id": "145294"
+	},
+	{
+		"review": "안본 눈 삽니다....",
+		"date": "20.01.19",
+		"rating": "2",
+		"author": "adiv****",
+		"review_id": "16619361",
+		"movie_id": "145294"
+	},
+	{
+		"review": "내인생 최고의영화..꼭보시길",
+		"date": "16.01.24",
+		"rating": "10",
+		"author": "tosc****",
+		"review_id": "10771715",
+		"movie_id": "145294"
+	}
+]

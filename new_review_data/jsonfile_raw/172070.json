@@ -1,0 +1,42 @@
+[
+	{
+		"review": "원작을 너무 꼬아버려 졸림",
+		"date": "19.10.19",
+		"rating": "4",
+		"author": "hty1****",
+		"review_id": "16284921",
+		"movie_id": "172070"
+	},
+	{
+		"review": "꼬우고 꼬우고 꽈배기도 아니고... 재미없슴",
+		"date": "19.11.19",
+		"rating": "4",
+		"author": "asdf****",
+		"review_id": "16411355",
+		"movie_id": "172070"
+	},
+	{
+		"review": "허술한 스토리라인이 문제",
+		"date": "20.09.22",
+		"rating": "5",
+		"author": "adiv****",
+		"review_id": "17154077",
+		"movie_id": "172070"
+	},
+	{
+		"review": "반전이 매우 충격적이군",
+		"date": "19.11.22",
+		"rating": "6",
+		"author": "choi****",
+		"review_id": "16419107",
+		"movie_id": "172070"
+	},
+	{
+		"review": "원작의 느낌과 같은 듯 다른 스토리와 영상미가 좋습니다.",
+		"date": "19.10.23",
+		"rating": "10",
+		"author": "kite****",
+		"review_id": "16308749",
+		"movie_id": "172070"
+	}
+]

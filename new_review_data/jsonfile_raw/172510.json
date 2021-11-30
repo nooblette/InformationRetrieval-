@@ -1,0 +1,82 @@
+[
+	{
+		"review": "별갯수믿구봤는데 ㅠ화가 나네요 ㅠ",
+		"date": "18.07.25",
+		"rating": "2",
+		"author": "pon9****",
+		"review_id": "14341296",
+		"movie_id": "172510"
+	},
+	{
+		"review": "관객수 1명ㅋ대단한분이네",
+		"date": "18.04.17",
+		"rating": "10",
+		"author": "shm7****",
+		"review_id": "14018190",
+		"movie_id": "172510"
+	},
+	{
+		"review": "이게 개봉작이라고? 수입 책임자는 그만둬라",
+		"date": "20.03.11",
+		"rating": "2",
+		"author": "glts****",
+		"review_id": "16771603",
+		"movie_id": "172510"
+	},
+	{
+		"review": "1점도 아깝다. 이걸 돈 받고 파냐..  양심도 없는 업자들아",
+		"date": "19.09.10",
+		"rating": "1",
+		"author": "adiv****",
+		"review_id": "16134663",
+		"movie_id": "172510"
+	},
+	{
+		"review": "관객수 1명이 모든걸 말해준다",
+		"date": "19.08.21",
+		"rating": "1",
+		"author": "rica****",
+		"review_id": "16072875",
+		"movie_id": "172510"
+	},
+	{
+		"review": "오 마이 갓... 삼류인거 알고 봤지만 하... 시리즈물로 만드려는거 같아서 더 웃김",
+		"date": "19.01.05",
+		"rating": "2",
+		"author": "asdn****",
+		"review_id": "15088364",
+		"movie_id": "172510"
+	},
+	{
+		"review": "제작진이 빵빵한 판타지 어드벤처...Good!~",
+		"date": "18.03.26",
+		"rating": "10",
+		"author": "fran****",
+		"review_id": "13931530",
+		"movie_id": "172510"
+	},
+	{
+		"review": "드래곤 판타지 액션이 맘에 든다",
+		"date": "18.03.16",
+		"rating": "10",
+		"author": "kite****",
+		"review_id": "13891918",
+		"movie_id": "172510"
+	},
+	{
+		"review": "놀려면 자기네들끼리 놀 것이지",
+		"date": "18.12.31",
+		"rating": "1",
+		"author": "bbq2****",
+		"review_id": "15066655",
+		"movie_id": "172510"
+	},
+	{
+		"review": "와 후반부 대박반전 끝까지보다가 반전에놀람",
+		"date": "18.07.04",
+		"rating": "10",
+		"author": "leet****",
+		"review_id": "14269159",
+		"movie_id": "172510"
+	}
+]

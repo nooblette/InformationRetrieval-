@@ -1,0 +1,50 @@
+[
+	{
+		"review": "흥미로운소재와이야기!",
+		"date": "21.01.27",
+		"rating": "6",
+		"author": "hote****",
+		"review_id": "17355777",
+		"movie_id": "197491"
+	},
+	{
+		"review": "범죄할때 긴장감이 좀 떨어짐.  파비오는 연기 잘하네",
+		"date": "21.04.25",
+		"rating": "6",
+		"author": "adiv****",
+		"review_id": "17489229",
+		"movie_id": "197491"
+	},
+	{
+		"review": "실화를 바탕으로 만든 영화라는게 어이 없을 정도의 스토리",
+		"date": "21.02.08",
+		"rating": "4",
+		"author": "gogo****",
+		"review_id": "17374762",
+		"movie_id": "197491"
+	},
+	{
+		"review": "19금 영화, 왜 이렇게 야한 장면이 많은가",
+		"date": "21.01.27",
+		"rating": "4",
+		"author": "ECO STORY(jjst****",
+		"review_id": "17355820",
+		"movie_id": "197491"
+	},
+	{
+		"review": "",
+		"date": "21.02.05",
+		"rating": "10",
+		"author": "djtj****",
+		"review_id": "17370549",
+		"movie_id": "197491"
+	},
+	{
+		"review": "최고야!!!정말촤고최고최고",
+		"date": "21.01.27",
+		"rating": "10",
+		"author": "skoo****",
+		"review_id": "17354791",
+		"movie_id": "197491"
+	}
+]

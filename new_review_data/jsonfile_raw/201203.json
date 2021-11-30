@@ -1,0 +1,26 @@
+[
+	{
+		"review": "도대체 이건 뭐지? 이런 영화 첨 봄",
+		"date": "21.02.19",
+		"rating": "1",
+		"author": "king****",
+		"review_id": "17402018",
+		"movie_id": "201203"
+	},
+	{
+		"review": "레즈비언영화입니다.",
+		"date": "21.02.28",
+		"rating": "1",
+		"author": "The last man(hota****",
+		"review_id": "17415125",
+		"movie_id": "201203"
+	},
+	{
+		"review": "수아레즈 닮은 여자가 주인공으로 나오는데 레즈임. 더블레즈지",
+		"date": "21.03.11",
+		"rating": "1",
+		"author": "muse****",
+		"review_id": "17430101",
+		"movie_id": "201203"
+	}
+]

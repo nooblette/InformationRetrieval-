@@ -1,0 +1,42 @@
+[
+	{
+		"review": "보기드문 수작 현실적이고 인생을 다시 시작함에 있어 박수 처주고 싶다",
+		"date": "21.10.03",
+		"rating": "10",
+		"author": "gree****",
+		"review_id": "17730956",
+		"movie_id": "185358"
+	},
+	{
+		"review": "그럭저럭 재미는 있음.",
+		"date": "21.09.29",
+		"rating": "8",
+		"author": "unde****",
+		"review_id": "17723899",
+		"movie_id": "185358"
+	},
+	{
+		"review": "여주 너무 매력적 이름도 좋네 피포니어",
+		"date": "21.09.02",
+		"rating": "9",
+		"author": "ehdu****",
+		"review_id": "17684600",
+		"movie_id": "185358"
+	},
+	{
+		"review": "반전에 큰 박수",
+		"date": "21.11.07",
+		"rating": "10",
+		"author": "baku****",
+		"review_id": "17783196",
+		"movie_id": "185358"
+	},
+	{
+		"review": "지금의 나와 정말 같은 애기",
+		"date": "21.09.30",
+		"rating": "10",
+		"author": "aias****",
+		"review_id": "17725343",
+		"movie_id": "185358"
+	}
+]

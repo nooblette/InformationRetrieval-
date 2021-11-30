@@ -1,0 +1,34 @@
+[
+	{
+		"review": "물에 빠졌다 나온사람들이 죄다 뽀송뽀송함",
+		"date": "20.10.31",
+		"rating": "1",
+		"author": "sbte****",
+		"review_id": "17226062",
+		"movie_id": "193098"
+	},
+	{
+		"review": "지루하고 뭔가 어색하다",
+		"date": "21.01.11",
+		"rating": "4",
+		"author": "choi****",
+		"review_id": "17335187",
+		"movie_id": "193098"
+	},
+	{
+		"review": "액션신도 지루하고 박진감도 떨어지고 그냥저냥입니다 ㅜ",
+		"date": "20.10.26",
+		"rating": "4",
+		"author": "lhse****",
+		"review_id": "17218562",
+		"movie_id": "193098"
+	},
+	{
+		"review": "그냥저냥.봤네요^^",
+		"date": "20.09.17",
+		"rating": "8",
+		"author": "kko2****",
+		"review_id": "17144156",
+		"movie_id": "193098"
+	}
+]
