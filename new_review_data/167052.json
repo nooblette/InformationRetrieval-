@@ -1,0 +1,42 @@
+[
+	{
+		"review": "벤르웬 감독의 첩보물 기반 천재 이야기",
+		"date": "19.02.10",
+		"rating": "10",
+		"author": "UJIN KIM(cair****",
+		"review_id": "15259112",
+		"movie_id": "167052"
+	},
+	{
+		"review": "별기대없엇지만 완벽한영화",
+		"date": "19.05.21",
+		"rating": "10",
+		"author": "yang****",
+		"review_id": "15707292",
+		"movie_id": "167052"
+	},
+	{
+		"review": "앤트맨과 킹스맨 멀린의 만남",
+		"date": "19.03.11",
+		"rating": "10",
+		"author": "ho12****",
+		"review_id": "15404045",
+		"movie_id": "167052"
+	},
+	{
+		"review": "영화인데 영화가 아니었다",
+		"date": "19.04.19",
+		"rating": "10",
+		"author": "hyeo****",
+		"review_id": "15524771",
+		"movie_id": "167052"
+	},
+	{
+		"review": "그닥.. 별로..그냥..",
+		"date": "21.08.12",
+		"rating": "1",
+		"author": "wedo****",
+		"review_id": "17646878",
+		"movie_id": "167052"
+	}
+]

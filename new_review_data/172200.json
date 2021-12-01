@@ -1,0 +1,34 @@
+[
+	{
+		"review": "돈에 대해 다시한번 생각해볼수 있었던 영화..",
+		"date": "21.04.29",
+		"rating": "10",
+		"author": "vsar****",
+		"review_id": "17494698",
+		"movie_id": "172200"
+	},
+	{
+		"review": "살아가는데 돈이 전부가 아니라는걸",
+		"date": "21.04.26",
+		"rating": "10",
+		"author": "pete****",
+		"review_id": "17490848",
+		"movie_id": "172200"
+	},
+	{
+		"review": "돈에 대해서 다시 생각해보게하는 영화",
+		"date": "21.08.13",
+		"rating": "10",
+		"author": "sequ****",
+		"review_id": "17650253",
+		"movie_id": "172200"
+	},
+	{
+		"review": "그냥 노잼이에요..",
+		"date": "21.04.26",
+		"rating": "1",
+		"author": "kkmi****",
+		"review_id": "17491293",
+		"movie_id": "172200"
+	}
+]

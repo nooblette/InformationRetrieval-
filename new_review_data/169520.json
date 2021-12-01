@@ -1,0 +1,58 @@
+[
+	{
+		"review": "의외로 찰지고 웃기긴했음",
+		"date": "18.05.02",
+		"rating": "10",
+		"author": "jbs5****",
+		"review_id": "14073127",
+		"movie_id": "169520"
+	},
+	{
+		"review": "웃기려다 실패하면 최악이 됨...",
+		"date": "18.07.09",
+		"rating": "1",
+		"author": "dlwo****",
+		"review_id": "14289796",
+		"movie_id": "169520"
+	},
+	{
+		"review": "네 윗윗분 말대로 최악입니다",
+		"date": "18.01.11",
+		"rating": "1",
+		"author": "leek****",
+		"review_id": "13636848",
+		"movie_id": "169520"
+	},
+	{
+		"review": "네 윗분 말대로 최악입니다ㅠㅠ",
+		"date": "18.01.03",
+		"rating": "1",
+		"author": "omni****",
+		"review_id": "13605946",
+		"movie_id": "169520"
+	},
+	{
+		"review": "최악의 영화입니다....",
+		"date": "17.12.31",
+		"rating": "1",
+		"author": "ruph****",
+		"review_id": "13588728",
+		"movie_id": "169520"
+	},
+	{
+		"review": "좀더 웃기면 볼만했을거 같긴한데",
+		"date": "20.07.02",
+		"rating": "3",
+		"author": "adiv****",
+		"review_id": "16943191",
+		"movie_id": "169520"
+	},
+	{
+		"review": "보기드문사극에로 코믹 남주가연기가짱이네요 ....",
+		"date": "18.05.27",
+		"rating": "9",
+		"author": "liph****",
+		"review_id": "14157384",
+		"movie_id": "169520"
+	}
+]

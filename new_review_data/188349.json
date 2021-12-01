@@ -1,0 +1,26 @@
+[
+	{
+		"review": "?",
+		"date": "19.10.19",
+		"rating": "10",
+		"author": "wnsl****",
+		"review_id": "16286232",
+		"movie_id": "188349"
+	},
+	{
+		"review": "아이들이 좋아해요!!!",
+		"date": "19.11.25",
+		"rating": "10",
+		"author": "hseo****",
+		"review_id": "16433170",
+		"movie_id": "188349"
+	},
+	{
+		"review": "이게 무엇입니까나아아아ㅔ",
+		"date": "19.11.18",
+		"rating": "2",
+		"author": "alic****",
+		"review_id": "16410106",
+		"movie_id": "188349"
+	}
+]

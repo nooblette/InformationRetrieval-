@@ -1,0 +1,50 @@
+[
+	{
+		"review": "",
+		"date": "21.05.20",
+		"rating": "10",
+		"author": "real****",
+		"review_id": "17519916",
+		"movie_id": "201843"
+	},
+	{
+		"review": "잔잔하나 마음에 오래 남는 영화",
+		"date": "21.05.20",
+		"rating": "10",
+		"author": "cook****",
+		"review_id": "17519905",
+		"movie_id": "201843"
+	},
+	{
+		"review": "요즘 시국에 감도믈주는 다큐 감독님 대단해요",
+		"date": "21.05.20",
+		"rating": "10",
+		"author": "psha****",
+		"review_id": "17519888",
+		"movie_id": "201843"
+	},
+	{
+		"review": "",
+		"date": "21.05.20",
+		"rating": "10",
+		"author": "chld****",
+		"review_id": "17519959",
+		"movie_id": "201843"
+	},
+	{
+		"review": "긋무비~좋은영화 입니다",
+		"date": "21.05.20",
+		"rating": "10",
+		"author": "yjin****",
+		"review_id": "17519953",
+		"movie_id": "201843"
+	},
+	{
+		"review": "",
+		"date": "21.09.17",
+		"rating": "1",
+		"author": "zksy****",
+		"review_id": "17705710",
+		"movie_id": "201843"
+	}
+]
